@@ -3,11 +3,13 @@ import AppYoutube from "./youtube-clone/AppYoutube";
 import Home from "./Home";
 import Videos from "./youtube-clone/Videos";
 import WatchVideo from "./youtube-clone/WatchVideo";
+import NotFound from "./NotFound";
 
 const router = createBrowserRouter([
     {
         path: "/",
         element: <Home />,
+        errorElement: <NotFound />,
     },
     {
         path: "/youtube",
