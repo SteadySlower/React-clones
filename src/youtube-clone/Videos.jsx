@@ -1,6 +1,7 @@
 import { useQuery } from "@tanstack/react-query";
 import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
+import VideoCard from "./components/VideoCard";
 
 function Videos() {
     const { keyword } = useParams();
@@ -27,7 +28,7 @@ function Videos() {
             {videos && (
                 <ul>
                     {videos.map((video) => (
-                        <li key={video.etag}>{video.snippet.title}</li>
+                        <VideoCard key={video.id} video={video} />
                     ))}
                 </ul>
             )}
