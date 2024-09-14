@@ -1,0 +1,1462 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "vQMnhXr4n0Pr4gQtDF02PNTuzVY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Jfd1-abq0KWI0CfS0usHt8Y3iww",
+            "id": "X24BzyzQQ-8",
+            "snippet": {
+                "publishedAt": "2024-09-10T15:13:25Z",
+                "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+                "title": "PS5 Pro Technical Presentation hosted by Mark Cerny",
+                "description": "Mark Cerny, Lead Architect of the PS5 gives a technical presentation that focuses on PS5 Pro and innovations in gaming technology.\n \n#playstation5 #ps5 #ps5pro",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/X24BzyzQQ-8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/X24BzyzQQ-8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/X24BzyzQQ-8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/X24BzyzQQ-8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/X24BzyzQQ-8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "PlayStation",
+                "tags": [
+                    "PlayStation",
+                    "PS5",
+                    "video games",
+                    "next gen",
+                    "Sony",
+                    "PlayStation 5",
+                    "Mark Cerny",
+                    "Sony Interactive Entertainment",
+                    "SIE",
+                    "PlayStation 5 Pro",
+                    "PS5 Pro"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "PS5 Pro Technical Presentation hosted by Mark Cerny",
+                    "description": "Mark Cerny, Lead Architect of the PS5 gives a technical presentation that focuses on PS5 Pro and innovations in gaming technology.\n \n#playstation5 #ps5 #ps5pro"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "gj8P-Nsb9-BWXoFKDcEnfUSDMmU",
+            "id": "uarNiSl_uh4",
+            "snippet": {
+                "publishedAt": "2024-09-09T18:47:22Z",
+                "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+                "title": "Apple Event - September 9",
+                "description": "Watch the special Apple Event to learn about the next generation of iPhone, Apple Watch, and AirPods, and so much more.\n\nTo watch the event interpreted in American Sign Language (ASL), please click here: https://youtu.be/PYnfJl2OSic\n\nAudio Descriptions: https://apple.co/3MF5xtw\n\n00:00:00 Introduction\n00:04:32 Apple Watch Series 10\n00:20:20 Apple Watch Ultra 2\n00:25:54 AirPods\n00:39:55 iPhone 16\n01:11:42 iPhone 16 Pro\n\n“GOOD TIMES“ by Jungle https://apple.co/GOOD-TIMES-Jungle\n“Black” by The Soft Moon https://apple.co/Black-Soft-Moon\n“Welcome to Joy” by Hark Madley https://apple.co/Welcome-To-Joy\n“Riseatsunset (Super Orange Rework)” by Krishna Canning, Habe, Reiny https://apple.co/Riseatsunset\n“To Love Again (Sofia Kourtesis Remix)“ by Vandelux https://apple.co/Love-Again-Remix\n“Drum Nation (feat. DJNZR)” by Black Magick Snakes, Day Vidya, Esaro https://apple.co/Drum-Nation\n“places to be” by Fred again.., Anderson .Paak, CHIKA https://apple.co/places-to-be\n“Peaceful Place” by Leon Bridges https://apple.co/Peaceful-Place\n“Some Act You Put On” by Fine Line https://apple.co/Some-Act-Fine-Line\n“God Gave Me Feet For Dancing” by Ezra Collective, Yazmin Lacey https://apple.co/Gave-Me-Feet\n“Ride” by Loukeman https://apple.co/Loukeman-Ride\n“ASPEN (feat. Toro y Moi)” by Channel Tres https://apple.co/ASPEN-Channel-Tres\n“TAKA“ by Ahadadream, Priya Ragu, Skrillex, contra https://apple.co/TAKA\n“Shift Souls” by Toechter https://apple.co/Shift-Souls\n“A Dam Will Always Divide” by Avalon Emerson https://apple.co/Will-Always-Divide\n“Dancing in the Flames” by The Weeknd\n\n#AppleEvent #iPhone16Pro #iPhone16 #AppleWatchSeries10 #AirPods4\n\nWelcome to the official Apple YouTube channel. Here you’ll find news about product launches, tutorials, and other great content. Apple’s more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uarNiSl_uh4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uarNiSl_uh4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uarNiSl_uh4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uarNiSl_uh4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uarNiSl_uh4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apple",
+                "tags": [
+                    "Apple",
+                    "Apple Event",
+                    "iPhone 16",
+                    "iPhone 16 Pro",
+                    "Apple Watch Series 10",
+                    "AirPods 4",
+                    "Apple Intelligence",
+                    "Apple Watch Ultra 2",
+                    "AirPods Max",
+                    "AirPods Pro 2",
+                    "Hearing Aid",
+                    "Hearing Test",
+                    "Hearing Protection",
+                    "Sleep Apnea"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Apple Event - September 9",
+                    "description": "Watch the special Apple Event to learn about the next generation of iPhone, Apple Watch, and AirPods, and so much more.\n\nTo watch the event interpreted in American Sign Language (ASL), please click here: https://youtu.be/PYnfJl2OSic\n\nAudio Descriptions: https://apple.co/3MF5xtw\n\n00:00:00 Introduction\n00:04:32 Apple Watch Series 10\n00:20:20 Apple Watch Ultra 2\n00:25:54 AirPods\n00:39:55 iPhone 16\n01:11:42 iPhone 16 Pro\n\n“GOOD TIMES“ by Jungle https://apple.co/GOOD-TIMES-Jungle\n“Black” by The Soft Moon https://apple.co/Black-Soft-Moon\n“Welcome to Joy” by Hark Madley https://apple.co/Welcome-To-Joy\n“Riseatsunset (Super Orange Rework)” by Krishna Canning, Habe, Reiny https://apple.co/Riseatsunset\n“To Love Again (Sofia Kourtesis Remix)“ by Vandelux https://apple.co/Love-Again-Remix\n“Drum Nation (feat. DJNZR)” by Black Magick Snakes, Day Vidya, Esaro https://apple.co/Drum-Nation\n“places to be” by Fred again.., Anderson .Paak, CHIKA https://apple.co/places-to-be\n“Peaceful Place” by Leon Bridges https://apple.co/Peaceful-Place\n“Some Act You Put On” by Fine Line https://apple.co/Some-Act-Fine-Line\n“God Gave Me Feet For Dancing” by Ezra Collective, Yazmin Lacey https://apple.co/Gave-Me-Feet\n“Ride” by Loukeman https://apple.co/Loukeman-Ride\n“ASPEN (feat. Toro y Moi)” by Channel Tres https://apple.co/ASPEN-Channel-Tres\n“TAKA“ by Ahadadream, Priya Ragu, Skrillex, contra https://apple.co/TAKA\n“Shift Souls” by Toechter https://apple.co/Shift-Souls\n“A Dam Will Always Divide” by Avalon Emerson https://apple.co/Will-Always-Divide\n“Dancing in the Flames” by The Weeknd\n\n#AppleEvent #iPhone16Pro #iPhone16 #AppleWatchSeries10 #AirPods4\n\nWelcome to the official Apple YouTube channel. Here you’ll find news about product launches, tutorials, and other great content. Apple’s more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it."
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "XCYa_LQX-xSQZNfQ23YraNHXgLQ",
+            "id": "9lx11dy9J30",
+            "snippet": {
+                "publishedAt": "2024-09-10T11:12:09Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "iPhone 16/Pro Impressions: The Great Separation!",
+                "description": "Hands on and first impression with iPhone 16 and iPhone 16 Pro.\n\nPower your iPhone 16 with the latest from Anker's MagGo lineup and enjoy a 15% discount when you buy two for a limited time.\nAmazon: https://ankerfast.club/8fvg06\nAnker.com: https://shop.anker.com/ujBG1k\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9lx11dy9J30/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9lx11dy9J30/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9lx11dy9J30/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9lx11dy9J30/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9lx11dy9J30/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "tags": [
+                    "iPhone 16",
+                    "iPhone 16 Impressions",
+                    "iPhone 16 Pro",
+                    "iPhone 16 Pro impressions",
+                    "MKBHD",
+                    "iPhone 16 hands on",
+                    "iPhone 16 review",
+                    "new iPhone 16",
+                    "Apple Intelligence",
+                    "iPhone 16 vs",
+                    "iPhone 16 Pro vs"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "iPhone 16/Pro Impressions: The Great Separation!",
+                    "description": "Hands on and first impression with iPhone 16 and iPhone 16 Pro.\n\nPower your iPhone 16 with the latest from Anker's MagGo lineup and enjoy a 15% discount when you buy two for a limited time.\nAmazon: https://ankerfast.club/8fvg06\nAnker.com: https://shop.anker.com/ujBG1k\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Y4dw4nYtGWhEBd_yy9tQkctsc_Y",
+            "id": "5cx7rvMvAWo",
+            "snippet": {
+                "publishedAt": "2024-09-10T11:34:02Z",
+                "channelId": "UCSbEeTlKPcfwAlqwJ08rZaw",
+                "title": "Devara Part -1 Trailer (Telugu) | NTR | Saif Ali Khan | Janhvi | Koratala Siva | Anirudh | Sep 27",
+                "description": "Here’s Devara Part - 1 Telugu Trailer ft. NTR, Saif Ali Khan, Janhvi Kapoor. Written & Directed by Koratala Siva. The Film’s music is composed by Anirudh Ravichander. Grand Release on September 27th,2024\n \n#Devara #NTR30 #DevaraTrailer #DevaraPart1 #ManofMassesNTR\n \nAlso Starring : Prakash Raj, Srikanth, Shine Tom Chacko\n \nMusic: Anirudh Ravichander\nDOP: Rathnavelu ISC\nProduction Designer : Sabu Cyril\nVFX Supervisor : Yugandhar T\nEditor: Sreekar Prasad\nProducers: Sudhakar Mikkilineni - Kosaraju Harikrishna\nDI: Annapurna Studios\nPRO:\nDigital Media: Nani\nTelugu :Vamsi Kaka\nMusic Label: T-Series",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5cx7rvMvAWo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5cx7rvMvAWo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5cx7rvMvAWo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5cx7rvMvAWo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5cx7rvMvAWo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "NTR Arts",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Devara Part -1 Trailer (Telugu) | NTR | Saif Ali Khan | Janhvi | Koratala Siva | Anirudh | Sep 27",
+                    "description": "Here’s Devara Part - 1 Telugu Trailer ft. NTR, Saif Ali Khan, Janhvi Kapoor. Written & Directed by Koratala Siva. The Film’s music is composed by Anirudh Ravichander. Grand Release on September 27th,2024\n \n#Devara #NTR30 #DevaraTrailer #DevaraPart1 #ManofMassesNTR\n \nAlso Starring : Prakash Raj, Srikanth, Shine Tom Chacko\n \nMusic: Anirudh Ravichander\nDOP: Rathnavelu ISC\nProduction Designer : Sabu Cyril\nVFX Supervisor : Yugandhar T\nEditor: Sreekar Prasad\nProducers: Sudhakar Mikkilineni - Kosaraju Harikrishna\nDI: Annapurna Studios\nPRO:\nDigital Media: Nani\nTelugu :Vamsi Kaka\nMusic Label: T-Series"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "wDxzjHHSfJREvhM9emhuztw2jO8",
+            "id": "bEweK7ffTcQ",
+            "snippet": {
+                "publishedAt": "2024-09-10T03:21:58Z",
+                "channelId": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+                "title": "New York Jets vs. San Francisco 49ers Game Highlights | NFL 2024 Season",
+                "description": "Check out our other channels:\nNFL Mundo https://www.youtube.com/mundonfl\nNFL Brasil https://www.youtube.com/c/NFLBrasilOficial\nNFL UK https://www.youtube.com/channel/UCVe0dAja_vZCmvfHXjtdRQA \nNFL Fantasy Football https://www.youtube.com/nflfantasyfootball\nNFL Play Football https://www.youtube.com/playfootball\nNFL Throwback http://www.youtube.com/nflvault\nNFL Films http://www.youtube.com/nflfilms\nNFL Network http://www.youtube.com/nflnetwork\n\n#NFL #Football #AmericanFootball",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bEweK7ffTcQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bEweK7ffTcQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bEweK7ffTcQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bEweK7ffTcQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bEweK7ffTcQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "NFL",
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "New York Jets vs. San Francisco 49ers Game Highlights | NFL 2024 Season",
+                    "description": "Check out our other channels:\nNFL Mundo https://www.youtube.com/mundonfl\nNFL Brasil https://www.youtube.com/c/NFLBrasilOficial\nNFL UK https://www.youtube.com/channel/UCVe0dAja_vZCmvfHXjtdRQA \nNFL Fantasy Football https://www.youtube.com/nflfantasyfootball\nNFL Play Football https://www.youtube.com/playfootball\nNFL Throwback http://www.youtube.com/nflvault\nNFL Films http://www.youtube.com/nflfilms\nNFL Network http://www.youtube.com/nflnetwork\n\n#NFL #Football #AmericanFootball"
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "YqNCmFM1qiyz1pBldXlKBFt-xZk",
+            "id": "6HaRMiTfvks",
+            "snippet": {
+                "publishedAt": "2024-09-10T15:15:25Z",
+                "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+                "title": "PlayStation 5 Pro Console - Reveal Trailer",
+                "description": "PlayStation®5 Pro Console\n\nWitness Play Unleashed™\n\nWith the PlayStation®5 Pro console, the world’s greatest game creators can enhance their games with incredible features like advanced ray tracing, super sharp image clarity for your 4K TV, and high frame rate gameplay.* That means you get to play PS5® games with the most impressive visuals ever possible on a PlayStation® console, and with 2TB of SSD storage included, your favorite games will be ready and waiting for you to jump right in for your next awesome adventure.**\n\nPlayStation® Spectral Super Resolution (PSSR) \nGet super sharp image clarity on your 4K TV using AI enhanced resolution for ultra-high definition play with astonishing detail.*\n\nOptimized Console Performance \nReach higher and more consistent frame rates for silky smooth gameplay with support for 60Hz and 120Hz displays.*\n\nAdvanced Ray Tracing \nExperience next level realism with ray traced reflections, shadows, and high-quality global illumination as you explore stunning game worlds.*\n\n*Feature only available on select PS5® games that have been enhanced for PS5® Pro when compared with PS5®. PS5® Pro enhanced features will vary by game. \n\n**A portion of the SSD is reserved for system software and other functions so the available SSD capacity may vary.\n\n#ps5 #ps5pro #playstation",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6HaRMiTfvks/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6HaRMiTfvks/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6HaRMiTfvks/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6HaRMiTfvks/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6HaRMiTfvks/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "PlayStation",
+                "tags": [
+                    "PlayStation",
+                    "PS5",
+                    "video games",
+                    "next gen",
+                    "Sony",
+                    "ps5pro",
+                    "pssr",
+                    "advanced ray tracing",
+                    "spectral super resolution",
+                    "reveal",
+                    "console"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "PlayStation 5 Pro Console - Reveal Trailer",
+                    "description": "PlayStation®5 Pro Console\n\nWitness Play Unleashed™\n\nWith the PlayStation®5 Pro console, the world’s greatest game creators can enhance their games with incredible features like advanced ray tracing, super sharp image clarity for your 4K TV, and high frame rate gameplay.* That means you get to play PS5® games with the most impressive visuals ever possible on a PlayStation® console, and with 2TB of SSD storage included, your favorite games will be ready and waiting for you to jump right in for your next awesome adventure.**\n\nPlayStation® Spectral Super Resolution (PSSR) \nGet super sharp image clarity on your 4K TV using AI enhanced resolution for ultra-high definition play with astonishing detail.*\n\nOptimized Console Performance \nReach higher and more consistent frame rates for silky smooth gameplay with support for 60Hz and 120Hz displays.*\n\nAdvanced Ray Tracing \nExperience next level realism with ray traced reflections, shadows, and high-quality global illumination as you explore stunning game worlds.*\n\n*Feature only available on select PS5® games that have been enhanced for PS5® Pro when compared with PS5®. PS5® Pro enhanced features will vary by game. \n\n**A portion of the SSD is reserved for system software and other functions so the available SSD capacity may vary.\n\n#ps5 #ps5pro #playstation"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "-52g8-X7O43XJ2mPB6Efom4ObkI",
+            "id": "eDqfg_LexCQ",
+            "snippet": {
+                "publishedAt": "2024-09-09T18:55:07Z",
+                "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+                "title": "Introducing iPhone 16 Pro | Apple",
+                "description": "This is iPhone 16 Pro. Built for Apple Intelligence. A new powerful, private, personal, deeply integrated intelligence system to help you get things done effortlessly.\n\nPowered by the new supercharged A18 Pro chip, with a faster Neural Engine, and an improved CPU and GPU. Which levels up both your iPhone and your gaming experience, offering our best-ever graphics performance.\n\nPlus there’s an all-new camera system and an all-new way to control it. Use Camera Control to instantly access your camera, adjust settings, and take a photo.\n\nAnd you can now shoot video in 4K 120 fps Dolby Vision to capture and edit stunningly cinematic slow motion.\n\nBuilt with titanium. And featuring our thinnest borders for an even larger display.\n\niPhone 16 Pro is the most innovative, most powerful, and most intelligent iPhone ever. From the inside out.\n\nLearn more about iPhone 16 Pro and iPhone 16 Pro Max: https://apple.co/4dSqFbR\n\nAudio Descriptions: https://apple.co/4dTrRvG\n\n“Wingspan” by Dan Mufson - https://apple.co/Wingspan\n\n#iPhone16Pro #AppleIntelligence #AppleEvent\n\nWelcome to the official Apple YouTube channel. Here you’ll find news about product launches, tutorials, and other great content. Apple’s more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eDqfg_LexCQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eDqfg_LexCQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eDqfg_LexCQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eDqfg_LexCQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eDqfg_LexCQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apple",
+                "tags": [
+                    "Apple",
+                    "iPhone 16 Pro",
+                    "iPhone 16 Pro Max",
+                    "iPhone",
+                    "Apple Intelligence",
+                    "Built for Apple Intelligence",
+                    "Camera Control",
+                    "4K",
+                    "120 fps",
+                    "slo-mo",
+                    "titanium",
+                    "apple event"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Introducing iPhone 16 Pro | Apple",
+                    "description": "This is iPhone 16 Pro. Built for Apple Intelligence. A new powerful, private, personal, deeply integrated intelligence system to help you get things done effortlessly.\n\nPowered by the new supercharged A18 Pro chip, with a faster Neural Engine, and an improved CPU and GPU. Which levels up both your iPhone and your gaming experience, offering our best-ever graphics performance.\n\nPlus there’s an all-new camera system and an all-new way to control it. Use Camera Control to instantly access your camera, adjust settings, and take a photo.\n\nAnd you can now shoot video in 4K 120 fps Dolby Vision to capture and edit stunningly cinematic slow motion.\n\nBuilt with titanium. And featuring our thinnest borders for an even larger display.\n\niPhone 16 Pro is the most innovative, most powerful, and most intelligent iPhone ever. From the inside out.\n\nLearn more about iPhone 16 Pro and iPhone 16 Pro Max: https://apple.co/4dSqFbR\n\nAudio Descriptions: https://apple.co/4dTrRvG\n\n“Wingspan” by Dan Mufson - https://apple.co/Wingspan\n\n#iPhone16Pro #AppleIntelligence #AppleEvent\n\nWelcome to the official Apple YouTube channel. Here you’ll find news about product launches, tutorials, and other great content. Apple’s more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it."
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "WP7g_dJAReDh8ViorYhvs-dV6sU",
+            "id": "DUsUx-Hhiyo",
+            "snippet": {
+                "publishedAt": "2024-09-10T10:00:24Z",
+                "channelId": "UCXGR70CkW_pXb8n52LzCCRw",
+                "title": "Terry Crews Eats His Last Meal",
+                "description": "Today, Terry Crews is eating his last meal.\n\nSubscribe to Mythical Kitchen: https://www.youtube.com/mythicalkitchen?sub_confirmation=1\n\n0:00 Terry's Last Meal\n1:13 Have You Thought About Your Last Meal Before?\n1:52 1st Course\n3:20 Growing Up In Church\n4:52 Michael Meyers Jesus\n7:43 2nd Course\n8:10 Cedar Point & BBQ\n10:45 Imagining His Own Movies\n12:04 Shifting Focus To Enjoy The Now\n14:17 3rd Course\n15:25 Retiring From The NFL\n17:17 Discovering Smoothies\n18:13 Working Out To Face His Father\n25:22 4th Course\n27:33 Finding True Power\n29:25 Working With Adam Sandler\n31:12 5th Course\n33:19 Learning Morality From Star Wars\n35:27 Forgiving Parents & Reparing Your Own House\n38:33 6th Course\n40:35 What Does Dying Feel Like?\n44:28 Lightning Round\n47:27 Terry's Last Words\n\nSubmit your Dreams Become Food photos here: https://forms.gle/cBopySaTXdzG7RFr5\n\nCheck out our podcast, A Hot Dog Is A Sandwich!\nApple Podcasts: https://mythic.al/ahdias\nSpotify: https://mythic.al/hotdog\n\nClick the bell icon so you'll know when we add a new video!\n\nWant more Mythical Kitchen? Check out these playlists:\nFancy Fast Food - https://www.youtube.com/playlist?list=PLW8XZTagL0oJhk71Ip3rIzHOFY3Edw2pw\nSnack Smash - https://www.youtube.com/playlist?list=PLW8XZTagL0oKYv5beEZpH5hP8aA5ahGKQ\nFood Fears - https://www.youtube.com/playlist?list=PLW8XZTagL0oK6vh1N6DOYcdWzGyuAxjtN\nFood Feats - https://www.youtube.com/playlist?list=PLW8XZTagL0oJI4IG7pZ-y792AHI4vIbWD\n\nPick up official Mythical Kitchen merch at https://mythical.com/collections/mythical-kitchen\n\nCheck out Sporked, Mythical's new website dedicated to helping you find the best food on the shelves! - http://www.sporked.com\n\nJoin the Mythical Society: https://www.mythicalsociety.com\n\nFollow Mythical Kitchen:\nInstagram: https://instagram.com/mythicalkitchen\nFacebook: https://facebook.com/mythicalkitchen\nMythical Chef Josh's Instagram: https://instagram.com/mythicalchefjosh\n\nFollow Mythical: \nInstagram: https://instagram.com/mythical\nFacebook: https://facebook.com/mythical\nTwitter: https://twitter.com/mythical\nWebsite: https://mythical.com\n\nCheck Out Our Other Mythical Channels:\nGood Mythical Morning: https://youtube.com/goodmythicalmorning\nRhett & Link: https://youtube.com/rhettandlink\nEar Biscuits: https://applepodcasts.com/earbiscuits\nGood Mythical MORE: https://youtube.com/goodmythicalmore\n\nWant to send us something? https://mythical.com/contact\n\nIn the spirit of minimizing food waste associated with the filming of this series, Mythical is donating to the Hollywood Food Coalition ( https://hofoco.org ) who provide daily, nourishing meals to underserved communities in the Los Angeles area.\n\nClosed Captioning provided by Rev\n\nGet Mythical Kitchen gadgets and equipment!\n(As an Amazon Associate, we earn from qualifying purchases from paid links below)\n* Pots and Pans - https://www.amazon.com/gp/product/B01B49H5CG/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1\n* Instant Read Thermometer - https://www.amazon.com/dp/B01F59K0IW/ref=twister_B00NMQGAPS?_encoding=UTF8&psc=1\n* Immersion Blender - https://www.amazon.com/gp/product/B01J1AWUR0/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1\n* Dehydrator - https://www.amazon.com/gp/product/B01M6AZ863/ref=ox_sc_act_title_1?smid=A2L77EE7U53NWQ&psc=1\n* Vitamix Blender - https://www.amazon.com/gp/product/B0758JHZM3/ref=ox_sc_act_title_2?smid=ATVPDKIKX0DER&psc=1\n* Food Processor - https://www.amazon.com/Cuisinart-DFP-14BCNY-Processor-Brushed-Stainless/dp/B01AXM4WV2?ref_=ast_sto_dp&th=1&psc=1\n* Kitchen Aid Stand Mixer - https://www.amazon.com/dp/B07QBDMCKH/ref=twister_B07XKC8VN4?_encoding=UTF8&psc=1\n* Kitchen AidPasta Attachment - https://www.amazon.com/KitchenAid-KSMPEXTA-Gourmet-Attachment-Interchangeable/dp/B01ENK4UV2?ref_=ast_sto_dp\n* Spice Grinder - https://www.amazon.com/KRUPS-Electric-Coffee-Grinder-Stainless/dp/B00004SPEU?ref_=ast_bbp_dp&th=1&psc=1",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DUsUx-Hhiyo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DUsUx-Hhiyo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DUsUx-Hhiyo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DUsUx-Hhiyo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DUsUx-Hhiyo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Mythical Kitchen",
+                "tags": [
+                    "mythical kitchen",
+                    "mythical",
+                    "chef",
+                    "josh",
+                    "scherer",
+                    "nicole",
+                    "food",
+                    "taste test",
+                    "snack",
+                    "smash",
+                    "fears",
+                    "fancy",
+                    "fast",
+                    "recipe",
+                    "culinary",
+                    "cooking",
+                    "cook",
+                    "bake",
+                    "baking",
+                    "mythical chef josh",
+                    "culinary bro-down",
+                    "good mythical kitchen"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Terry Crews Eats His Last Meal",
+                    "description": "Today, Terry Crews is eating his last meal.\n\nSubscribe to Mythical Kitchen: https://www.youtube.com/mythicalkitchen?sub_confirmation=1\n\n0:00 Terry's Last Meal\n1:13 Have You Thought About Your Last Meal Before?\n1:52 1st Course\n3:20 Growing Up In Church\n4:52 Michael Meyers Jesus\n7:43 2nd Course\n8:10 Cedar Point & BBQ\n10:45 Imagining His Own Movies\n12:04 Shifting Focus To Enjoy The Now\n14:17 3rd Course\n15:25 Retiring From The NFL\n17:17 Discovering Smoothies\n18:13 Working Out To Face His Father\n25:22 4th Course\n27:33 Finding True Power\n29:25 Working With Adam Sandler\n31:12 5th Course\n33:19 Learning Morality From Star Wars\n35:27 Forgiving Parents & Reparing Your Own House\n38:33 6th Course\n40:35 What Does Dying Feel Like?\n44:28 Lightning Round\n47:27 Terry's Last Words\n\nSubmit your Dreams Become Food photos here: https://forms.gle/cBopySaTXdzG7RFr5\n\nCheck out our podcast, A Hot Dog Is A Sandwich!\nApple Podcasts: https://mythic.al/ahdias\nSpotify: https://mythic.al/hotdog\n\nClick the bell icon so you'll know when we add a new video!\n\nWant more Mythical Kitchen? Check out these playlists:\nFancy Fast Food - https://www.youtube.com/playlist?list=PLW8XZTagL0oJhk71Ip3rIzHOFY3Edw2pw\nSnack Smash - https://www.youtube.com/playlist?list=PLW8XZTagL0oKYv5beEZpH5hP8aA5ahGKQ\nFood Fears - https://www.youtube.com/playlist?list=PLW8XZTagL0oK6vh1N6DOYcdWzGyuAxjtN\nFood Feats - https://www.youtube.com/playlist?list=PLW8XZTagL0oJI4IG7pZ-y792AHI4vIbWD\n\nPick up official Mythical Kitchen merch at https://mythical.com/collections/mythical-kitchen\n\nCheck out Sporked, Mythical's new website dedicated to helping you find the best food on the shelves! - http://www.sporked.com\n\nJoin the Mythical Society: https://www.mythicalsociety.com\n\nFollow Mythical Kitchen:\nInstagram: https://instagram.com/mythicalkitchen\nFacebook: https://facebook.com/mythicalkitchen\nMythical Chef Josh's Instagram: https://instagram.com/mythicalchefjosh\n\nFollow Mythical: \nInstagram: https://instagram.com/mythical\nFacebook: https://facebook.com/mythical\nTwitter: https://twitter.com/mythical\nWebsite: https://mythical.com\n\nCheck Out Our Other Mythical Channels:\nGood Mythical Morning: https://youtube.com/goodmythicalmorning\nRhett & Link: https://youtube.com/rhettandlink\nEar Biscuits: https://applepodcasts.com/earbiscuits\nGood Mythical MORE: https://youtube.com/goodmythicalmore\n\nWant to send us something? https://mythical.com/contact\n\nIn the spirit of minimizing food waste associated with the filming of this series, Mythical is donating to the Hollywood Food Coalition ( https://hofoco.org ) who provide daily, nourishing meals to underserved communities in the Los Angeles area.\n\nClosed Captioning provided by Rev\n\nGet Mythical Kitchen gadgets and equipment!\n(As an Amazon Associate, we earn from qualifying purchases from paid links below)\n* Pots and Pans - https://www.amazon.com/gp/product/B01B49H5CG/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1\n* Instant Read Thermometer - https://www.amazon.com/dp/B01F59K0IW/ref=twister_B00NMQGAPS?_encoding=UTF8&psc=1\n* Immersion Blender - https://www.amazon.com/gp/product/B01J1AWUR0/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1\n* Dehydrator - https://www.amazon.com/gp/product/B01M6AZ863/ref=ox_sc_act_title_1?smid=A2L77EE7U53NWQ&psc=1\n* Vitamix Blender - https://www.amazon.com/gp/product/B0758JHZM3/ref=ox_sc_act_title_2?smid=ATVPDKIKX0DER&psc=1\n* Food Processor - https://www.amazon.com/Cuisinart-DFP-14BCNY-Processor-Brushed-Stainless/dp/B01AXM4WV2?ref_=ast_sto_dp&th=1&psc=1\n* Kitchen Aid Stand Mixer - https://www.amazon.com/dp/B07QBDMCKH/ref=twister_B07XKC8VN4?_encoding=UTF8&psc=1\n* Kitchen AidPasta Attachment - https://www.amazon.com/KitchenAid-KSMPEXTA-Gourmet-Attachment-Interchangeable/dp/B01ENK4UV2?ref_=ast_sto_dp\n* Spice Grinder - https://www.amazon.com/KRUPS-Electric-Coffee-Grinder-Stainless/dp/B00004SPEU?ref_=ast_bbp_dp&th=1&psc=1"
+                },
+                "defaultAudioLanguage": "en-US"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "IuGxo7aUhL_oFzpnK-3ILaFF4mk",
+            "id": "0tXEN0WNJUg",
+            "snippet": {
+                "publishedAt": "2024-09-10T13:00:59Z",
+                "channelId": "UCfnXpb2MPBULONuZCyaKgmA",
+                "title": "The Apprentice | Official Trailer | Exclusively in Theaters October 11",
+                "description": "A young Donald Trump (Sebastian Stan), eager to make his name as a hungry second son of a wealthy family in 1970s New York, comes under the spell of Roy Cohn (Jeremy Strong), the cutthroat attorney who would help create the Donald Trump we know today. Cohn sees in Trump the perfect protégé—someone with raw ambition, a hunger for success, and a willingness to do whatever it takes to win.\n\nhttps://www.theapprenticemovie.com/\nhttps://www.facebook.com/ApprenticeMovie/\nhttps://x.com/apprenticemov\nhttps://www.instagram.com/apprenticemovie/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0tXEN0WNJUg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0tXEN0WNJUg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0tXEN0WNJUg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0tXEN0WNJUg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Briarcliff Entertainment",
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "The Apprentice | Official Trailer | Exclusively in Theaters October 11",
+                    "description": "A young Donald Trump (Sebastian Stan), eager to make his name as a hungry second son of a wealthy family in 1970s New York, comes under the spell of Roy Cohn (Jeremy Strong), the cutthroat attorney who would help create the Donald Trump we know today. Cohn sees in Trump the perfect protégé—someone with raw ambition, a hunger for success, and a willingness to do whatever it takes to win.\n\nhttps://www.theapprenticemovie.com/\nhttps://www.facebook.com/ApprenticeMovie/\nhttps://x.com/apprenticemov\nhttps://www.instagram.com/apprenticemovie/"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "HmtScmj-CkBhZpBnH5HnMjqWJiQ",
+            "id": "_j3X8e7gWoI",
+            "snippet": {
+                "publishedAt": "2024-09-09T18:54:47Z",
+                "channelId": "UCoRQI9DCEzCpfvI21puHEtA",
+                "title": "I Became his Sugar Daddy",
+                "description": "LIMITED TIME JAKE AND JOHNNIE MERCH 10% Off Today Only: https://johnnieguilbert.com/\n\nSubscribe to @Jakewebber9 \nJohnnieguilbertlive Channel: https://www.youtube.com/@Johnnieguilbertlive\nJohnnie Full Stream Channel: https://www.youtube.com/@JohnnieGuilbertStreams\n\n🕷 New Cover Album Out Now\n● SPOTIFY:  https://open.spotify.com/album/48hLpvJEaaTTZaS6A4Rwsk?si=BrDPtL54SFasGVhRRY02Yw\n● SOUNDCLOUD https://on.soundcloud.com/JqvCBtqrhUdXaLzb9\n● APPLE Music https://music.apple.com/us/album/no-time-like-the-past-volume-one/1765452247\n● YOUTUBE MUSIC https://music.youtube.com/playlist?list=OLAK5uy_lhFBGbPj5cycfhdAJjnHKejPDXkVYLmlM&si=tWXkpdWPLK78axAd\n\n🩸 MERCH STORES:\n● JOHNNIE GUILBERT MERCH STORE https://johnnieguilbert.com/\n● Personal Videos Cameo https://www.cameo.com/johnnieguilbert\n● JOHNNIE GUILBERT JEWLERY LINE \nhttps://never-take-it-off.myshopify.com/collections/johnnie-guilbert\n● Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCoRQI9DCEzCpfvI21puHEtA/join\n\n😈 All Johnnie Guilberts Social Media / Merch and Music Links \nMY SOCIALS:\n👻 IG: https://www.instagram.com/johnnieguilbert/?hl=en\n💀 TWITTER: https://twitter.com/JohnnieGuilbert\n👹 TIKTOK https://www.tiktok.com/@johnnieguilbertreal?lang=en\n😈 FACEBOOK https://www.facebook.com/JohnnieGuilbert\n👽 Discord: https://discord.gg/fYvmCWSCN8\n🤡 Twitch https://www.twitch.tv/johnnieguilbertofficial\n🤖 Snapchat JohnnieGuilber1\n🦷 Discord Fan Server https://discord.gg/fYvmCWSCN8\n 🦴 Instagram Threads https://www.threads.net/@johnnieguilbert\n\nVideo edited and thumbnail by Wangs",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_j3X8e7gWoI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_j3X8e7gWoI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_j3X8e7gWoI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_j3X8e7gWoI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_j3X8e7gWoI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Johnnie Guilbert",
+                "tags": [
+                    "sugar daddy",
+                    "i became his sugar daddy",
+                    "i become his sugar daddy",
+                    "get a sugar daddy",
+                    "sugar daddy apps",
+                    "sugar daddy tips",
+                    "sugar daddy advice",
+                    "sugar daddies",
+                    "seeking arrangement sugar daddy advice",
+                    "sugar daddy's",
+                    "sugar baby",
+                    "sugar daddy's obsession",
+                    "daddy issues",
+                    "secret daddy",
+                    "sugar",
+                    "sugar mommy",
+                    "daddy movie",
+                    "sugar babies",
+                    "sugar dating",
+                    "sugar daddy's obsession ends in dark murder plot",
+                    "sugar baby tips",
+                    "sugar baby life",
+                    "sugar baby tales",
+                    "daddy movie trailer"
+                ],
+                "categoryId": "23",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "I Became his Sugar Daddy",
+                    "description": "LIMITED TIME JAKE AND JOHNNIE MERCH 10% Off Today Only: https://johnnieguilbert.com/\n\nSubscribe to @Jakewebber9 \nJohnnieguilbertlive Channel: https://www.youtube.com/@Johnnieguilbertlive\nJohnnie Full Stream Channel: https://www.youtube.com/@JohnnieGuilbertStreams\n\n🕷 New Cover Album Out Now\n● SPOTIFY:  https://open.spotify.com/album/48hLpvJEaaTTZaS6A4Rwsk?si=BrDPtL54SFasGVhRRY02Yw\n● SOUNDCLOUD https://on.soundcloud.com/JqvCBtqrhUdXaLzb9\n● APPLE Music https://music.apple.com/us/album/no-time-like-the-past-volume-one/1765452247\n● YOUTUBE MUSIC https://music.youtube.com/playlist?list=OLAK5uy_lhFBGbPj5cycfhdAJjnHKejPDXkVYLmlM&si=tWXkpdWPLK78axAd\n\n🩸 MERCH STORES:\n● JOHNNIE GUILBERT MERCH STORE https://johnnieguilbert.com/\n● Personal Videos Cameo https://www.cameo.com/johnnieguilbert\n● JOHNNIE GUILBERT JEWLERY LINE \nhttps://never-take-it-off.myshopify.com/collections/johnnie-guilbert\n● Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCoRQI9DCEzCpfvI21puHEtA/join\n\n😈 All Johnnie Guilberts Social Media / Merch and Music Links \nMY SOCIALS:\n👻 IG: https://www.instagram.com/johnnieguilbert/?hl=en\n💀 TWITTER: https://twitter.com/JohnnieGuilbert\n👹 TIKTOK https://www.tiktok.com/@johnnieguilbertreal?lang=en\n😈 FACEBOOK https://www.facebook.com/JohnnieGuilbert\n👽 Discord: https://discord.gg/fYvmCWSCN8\n🤡 Twitch https://www.twitch.tv/johnnieguilbertofficial\n🤖 Snapchat JohnnieGuilber1\n🦷 Discord Fan Server https://discord.gg/fYvmCWSCN8\n 🦴 Instagram Threads https://www.threads.net/@johnnieguilbert\n\nVideo edited and thumbnail by Wangs"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "8cFBS8q8ZBkV6VbBCF6bDbPfkAs",
+            "id": "14r1_sEd7_U",
+            "snippet": {
+                "publishedAt": "2024-09-09T20:31:09Z",
+                "channelId": "UCaFGDBmGK_jw66u3av2Ysjw",
+                "title": "Apple iPhone 16 Event: Everything Apple Announced in 13 Minutes!",
+                "description": "Apple just announced the new iPhone 16 lineup along with new AirPods and Apple Watches. Here's everything you missed at Apple's fall event. \n\n📲 Read more: https://www.macrumors.com/2024/09/09/everything-apple-announced-fall-2024-event/\n\n\n🌐 Connect with Dan:\n𝕏: https://twitter.com/danbarbera\nInstagram: https://instagram.com/danbarbera1\nTikTok: https://tiktok.com/@macrumors\nDan's YouTube Channel: https://youtube.com/danbarbera1\n\n🎙️ Follow The MacRumors Show Podcast: https://youtube.com/@TheMacRumorsShow\n\n⏱️ CHAPTERS\n00:00 - Intro\n00:10 - Apple Watch Series 10\n02:29 - AirPods 4, AirPods Max, & AirPods 2 Updates\n05:00 - Sponsor: RokForm\n06:16 - iPhone 16 and iPhone 16 Plus\n09:38 - iPhone 16 Pro and iPhone 16 Pro Max\n\nMore About our Sponsor: \n\nThe Rokform Rugged and Crystal cases are engineered to meet the demands of the toughest environments, delivering unparalleled protection for your iPhone 16. Built with military-grade drop protection, these cases are designed to withstand the most extreme drops and impacts, keeping your device safe in any situation.\n\nThe Rugged Case features integrated MAGMAX™ magnets, providing the strongest hold available for secure attachment to all your MagSafe® accessories. With the addition of the built-in RokLock™ mounting system, you unlock access to Rokform's complete ecosystem of versatile mounts, allowing you to attach your iPhone to virtually any surface—whether you're on the road, at work, or out exploring.\n\nFor those who prefer a sleeker look, the Crystal Case offers the same robust protection with a transparent, slim design that showcases the beauty of your iPhone 16.\n\nWhether you seek rugged durability or refined elegance, Rokform has you covered. Elevate your iPhone 16 experience with cases that seamlessly blend style, protection, and functionality.\nVisit https://bit.ly/4dPbC2J for more!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/14r1_sEd7_U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/14r1_sEd7_U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/14r1_sEd7_U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/14r1_sEd7_U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/14r1_sEd7_U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MacRumors",
+                "tags": [
+                    "macrumors",
+                    "mac rumors",
+                    "apple",
+                    "apple rumors",
+                    "apple products",
+                    "apple product review",
+                    "apple event",
+                    "iphone 16 event",
+                    "iphone 16",
+                    "iphone 16 pro",
+                    "iphone 16 plus",
+                    "iphone 16 pro max",
+                    "airpods 4",
+                    "airpods max",
+                    "airpods pro",
+                    "apple watch series x",
+                    "apple watch series 10",
+                    "apple watch ultra black"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Apple iPhone 16 Event: Everything Apple Announced in 13 Minutes!",
+                    "description": "Apple just announced the new iPhone 16 lineup along with new AirPods and Apple Watches. Here's everything you missed at Apple's fall event. \n\n📲 Read more: https://www.macrumors.com/2024/09/09/everything-apple-announced-fall-2024-event/\n\n\n🌐 Connect with Dan:\n𝕏: https://twitter.com/danbarbera\nInstagram: https://instagram.com/danbarbera1\nTikTok: https://tiktok.com/@macrumors\nDan's YouTube Channel: https://youtube.com/danbarbera1\n\n🎙️ Follow The MacRumors Show Podcast: https://youtube.com/@TheMacRumorsShow\n\n⏱️ CHAPTERS\n00:00 - Intro\n00:10 - Apple Watch Series 10\n02:29 - AirPods 4, AirPods Max, & AirPods 2 Updates\n05:00 - Sponsor: RokForm\n06:16 - iPhone 16 and iPhone 16 Plus\n09:38 - iPhone 16 Pro and iPhone 16 Pro Max\n\nMore About our Sponsor: \n\nThe Rokform Rugged and Crystal cases are engineered to meet the demands of the toughest environments, delivering unparalleled protection for your iPhone 16. Built with military-grade drop protection, these cases are designed to withstand the most extreme drops and impacts, keeping your device safe in any situation.\n\nThe Rugged Case features integrated MAGMAX™ magnets, providing the strongest hold available for secure attachment to all your MagSafe® accessories. With the addition of the built-in RokLock™ mounting system, you unlock access to Rokform's complete ecosystem of versatile mounts, allowing you to attach your iPhone to virtually any surface—whether you're on the road, at work, or out exploring.\n\nFor those who prefer a sleeker look, the Crystal Case offers the same robust protection with a transparent, slim design that showcases the beauty of your iPhone 16.\n\nWhether you seek rugged durability or refined elegance, Rokform has you covered. Elevate your iPhone 16 experience with cases that seamlessly blend style, protection, and functionality.\nVisit https://bit.ly/4dPbC2J for more!"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "vysQjBI2FBb0HDYdcQT7cFTqt7E",
+            "id": "cl8WUnbxadI",
+            "snippet": {
+                "publishedAt": "2024-09-10T14:03:53Z",
+                "channelId": "UC7LA8JLyD-pupf7tm19rrMQ",
+                "title": "2024 NFL WEEK 1 REVIEW",
+                "description": "Use code BARRY50 to get 50% OFF your first Factor box plus 20% off your next month of orders at https://bit.ly/3zszEBj",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cl8WUnbxadI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cl8WUnbxadI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cl8WUnbxadI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Barry McCockiner",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "2024 NFL WEEK 1 REVIEW",
+                    "description": "Use code BARRY50 to get 50% OFF your first Factor box plus 20% off your next month of orders at https://bit.ly/3zszEBj"
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "6W-9xI8BS-_G5b12yPnGtiHqjBo",
+            "id": "Bo6cXA91cy0",
+            "snippet": {
+                "publishedAt": "2024-09-10T16:22:10Z",
+                "channelId": "UCLXzq85ijg2LwJWFrz4pkmw",
+                "title": "Aaron Rodgers throws for TD, INT in Jets MNF loss, did 49ers put league on notice? | THE FACILITY",
+                "description": "The San Francisco 49ers spoiled Aaron Rodgers' return with a 32-19 win over the New York Jets on Monday Night Football. Brock Purdy finished with 231 yards and Jordan Mason put up 147 yards and a touchdown in his first start. Aaron Rodgers had 167 yards, a touchdown and an interception. Emmanuel Acho, LeSean McCoy, James Jones and Chase Daniel grade Rodgers' performance, then decide if the Niners put the NFL on notice with the win.\n\n#TheFacility #NFL #AaronRodgers\n\nThe all-new FOX Sports App, built for the modern sports fan: https://tinyurl.com/y4uouolb\n\n► Breakfast Ball's YouTube channel: https://www.youtube.com/@BreakfastBallonFS1\n► The Herd with Colin Cowherd’s YouTube channel: https://www.youtube.com/@TheHerdOnFS1\n► First Things First’s YouTube channel: https://www.youtube.com/@FirstThingsFirst\n► SPEAK's YouTube channel: https://www.youtube.com/c/SpeakOnFS1\n► The Facility's YouTube channel: https://www.youtube.com/@TheFacilityonFS1\n► What's Wright? with Nick Wright YouTube Channel: https://www.youtube.com/@WhatsWrightShow\n► All Facts No Brakes with Keyshawn Johnson YouTube Channel: https://www.youtube.com/@AllFactsPod\n\nAaron Rodgers throws for TD, INT in Jets MNF loss, did 49ers put league on notice? | THE FACILITY\nhttps://youtu.be/Bo6cXA91cy0\n\nThe Facility YouTube Channel\nhttps://www.youtube.com/@TheFacilityonFS1",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Bo6cXA91cy0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Bo6cXA91cy0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Bo6cXA91cy0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Bo6cXA91cy0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Bo6cXA91cy0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Facility",
+                "tags": [
+                    "fox",
+                    "fox sports",
+                    "fs1",
+                    "the facility",
+                    "fs1 show",
+                    "sports show",
+                    "chase daniel",
+                    "lesean mccoy",
+                    "emmanuel acho",
+                    "james jones",
+                    "nfl players",
+                    "nfl talk show",
+                    "NFL",
+                    "NFC",
+                    "Football",
+                    "fox sports 1",
+                    "sports",
+                    "sports news",
+                    "sports debate",
+                    "NFL on FOX",
+                    "AFC",
+                    "AFC South",
+                    "AFC North",
+                    "NFC South",
+                    "NFC North",
+                    "NFC West",
+                    "NFC East",
+                    "AFC West",
+                    "AFC East",
+                    "2024",
+                    "nfl season",
+                    "national football league",
+                    "nfl news",
+                    "nfl talk",
+                    "football talk",
+                    "football news",
+                    "jets",
+                    "rodgers",
+                    "49ers"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Aaron Rodgers throws for TD, INT in Jets MNF loss, did 49ers put league on notice? | THE FACILITY",
+                    "description": "The San Francisco 49ers spoiled Aaron Rodgers' return with a 32-19 win over the New York Jets on Monday Night Football. Brock Purdy finished with 231 yards and Jordan Mason put up 147 yards and a touchdown in his first start. Aaron Rodgers had 167 yards, a touchdown and an interception. Emmanuel Acho, LeSean McCoy, James Jones and Chase Daniel grade Rodgers' performance, then decide if the Niners put the NFL on notice with the win.\n\n#TheFacility #NFL #AaronRodgers\n\nThe all-new FOX Sports App, built for the modern sports fan: https://tinyurl.com/y4uouolb\n\n► Breakfast Ball's YouTube channel: https://www.youtube.com/@BreakfastBallonFS1\n► The Herd with Colin Cowherd’s YouTube channel: https://www.youtube.com/@TheHerdOnFS1\n► First Things First’s YouTube channel: https://www.youtube.com/@FirstThingsFirst\n► SPEAK's YouTube channel: https://www.youtube.com/c/SpeakOnFS1\n► The Facility's YouTube channel: https://www.youtube.com/@TheFacilityonFS1\n► What's Wright? with Nick Wright YouTube Channel: https://www.youtube.com/@WhatsWrightShow\n► All Facts No Brakes with Keyshawn Johnson YouTube Channel: https://www.youtube.com/@AllFactsPod\n\nAaron Rodgers throws for TD, INT in Jets MNF loss, did 49ers put league on notice? | THE FACILITY\nhttps://youtu.be/Bo6cXA91cy0\n\nThe Facility YouTube Channel\nhttps://www.youtube.com/@TheFacilityonFS1"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ob0WiI7LB5N5SNTqJFCWkG62rog",
+            "id": "OEXJmNj6SPk",
+            "snippet": {
+                "publishedAt": "2024-09-09T17:00:46Z",
+                "channelId": "UCehBVAPy-bxmnbNARF-_tvA",
+                "title": "We Put 7 Uber Drivers in One Room. What We Found Will Shock You.",
+                "description": "We put 7 Uber & Lyft drivers in one room and had them open their apps.\n\nWe found Uber paying different drivers different amounts for the same ride. Lyft too.\n\nIt’s proof corporations are using secret algorithms to pay workers less. And all of our jobs could be next.\n-----\nMore Perfect Union’s mission is to build power for working people. Here’s what that means:\n\nWe report on the real struggles and challenges of the working class from a working-class perspective, and we attempt to connect those problems to potential solutions.\n\nWe report on the abuses and wrongdoing of corporate power, and we seek to hold accountable the ultra-rich who have too much power over America’s political and economic systems.\n\nWe're an independent, nonprofit newsroom. To support our work:\n- Help fund our reporting: https://secure.actblue.com/donate/mpu-splash\n- Substack: https://substack.perfectunion.us/\n- TikTok: https://www.tiktok.com/@moreperfectunion\n- Twitter: https://twitter.com/MorePerfectUS\n- Facebook: https://www.facebook.com/MorePerfUnion\n- Instagram: https://www.instagram.com/perfectunion/\n- Threads: https://www.threads.net/@perfectunion\n- Website: https://www.perfectunion.us",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OEXJmNj6SPk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OEXJmNj6SPk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OEXJmNj6SPk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OEXJmNj6SPk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OEXJmNj6SPk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "More Perfect Union",
+                "tags": ["more perfect union", "politics"],
+                "categoryId": "25",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en-US",
+                "localized": {
+                    "title": "We Put 7 Uber Drivers in One Room. What We Found Will Shock You.",
+                    "description": "We put 7 Uber & Lyft drivers in one room and had them open their apps.\n\nWe found Uber paying different drivers different amounts for the same ride. Lyft too.\n\nIt’s proof corporations are using secret algorithms to pay workers less. And all of our jobs could be next.\n-----\nMore Perfect Union’s mission is to build power for working people. Here’s what that means:\n\nWe report on the real struggles and challenges of the working class from a working-class perspective, and we attempt to connect those problems to potential solutions.\n\nWe report on the abuses and wrongdoing of corporate power, and we seek to hold accountable the ultra-rich who have too much power over America’s political and economic systems.\n\nWe're an independent, nonprofit newsroom. To support our work:\n- Help fund our reporting: https://secure.actblue.com/donate/mpu-splash\n- Substack: https://substack.perfectunion.us/\n- TikTok: https://www.tiktok.com/@moreperfectunion\n- Twitter: https://twitter.com/MorePerfectUS\n- Facebook: https://www.facebook.com/MorePerfUnion\n- Instagram: https://www.instagram.com/perfectunion/\n- Threads: https://www.threads.net/@perfectunion\n- Website: https://www.perfectunion.us"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ltqoMpYFLDj3D2LB5nmL-NHGBTs",
+            "id": "zQLPGhjD_7I",
+            "snippet": {
+                "publishedAt": "2024-09-09T21:10:47Z",
+                "channelId": "UCooTLkxcpnTNx6vfOovfBFA",
+                "title": "France vs. Belgium Highlights | UEFA Nations League",
+                "description": "Check out the highlights as France took on Belgium in UEFA Nations League.\n\n#FOXSoccer #UEFA #France\n\nSUBSCRIBE to get the latest FOX Soccer content: http://foxs.pt/SubscribeFOXSOCCER\nThe all-new FOX Sports App, built for the modern sports fan: https://tinyurl.com/y4uouolb\n\n►FOX Sports YouTube Channel: http://foxs.pt/SubscribeFOXSPORTS\n►PBC ON FOX’s YouTube Channel: https://foxs.pt/SubscribePBCONFOX\n►WWE ON FOX YouTube channel: https://foxs.pt/SubscribeWWEONFOX\n►NASCAR ON FOX YouTube channel: https://foxs.pt/SubscribeNASCARonFOX\n►CFB ON FOX YouTube channel: https://foxs.pt/SubscribeCFBonFOX\n\nSee more from FOX Soccer: https://foxs.pt/FOXSoccer\nLike FOX Soccer on Facebook: https://foxs.pt/FOXSoccerFacebook\nFollow FOX Soccer on Twitter: https://foxs.pt/FOXSoccerTwitter\nFollow FOX Soccer on Instagram: https://foxs.pt/FOXSoccerInstagram\n\nAbout FOX Soccer:\nWith exclusive highlights, original programming, and behind the scenes footage, FOX Soccer’s YouTube channel provides the sports content that fans are hungry for. FOX Soccer presents: Bundesliga, MLS, FIFA World Cup, FIFA Women’s World Cup, Copa America, Gold Cup and many more.\n\nFrance vs. Belgium Highlights | UEFA Nations League\nhttps://youtu.be/zQLPGhjD_7I\n\nFOX Soccer\nhttps://www.youtube.com/user/Foxsoccer",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zQLPGhjD_7I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zQLPGhjD_7I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zQLPGhjD_7I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zQLPGhjD_7I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zQLPGhjD_7I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "FOX Soccer",
+                "tags": [
+                    "France",
+                    "Belgium",
+                    "UEFA Nations League",
+                    "Portugal",
+                    "Cristiano Ronaldo",
+                    "Scotland",
+                    "Game Winner",
+                    "highlights",
+                    "Union of European Football Association",
+                    "Soccer",
+                    "Soccer on Fox",
+                    "sports",
+                    "sports highlights",
+                    "soccer highlights",
+                    "fox sports highlights",
+                    "fox",
+                    "fox sports",
+                    "fox sports 1",
+                    "fs1",
+                    "fox youtube",
+                    "2024 Nations League",
+                    "sports talk",
+                    "sports news",
+                    "sports debate",
+                    "soccer talk",
+                    "soccer news",
+                    "soccer debate",
+                    "goal",
+                    "88th Minute",
+                    "International Soccer",
+                    "France vs. Belgium"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "France vs. Belgium Highlights | UEFA Nations League",
+                    "description": "Check out the highlights as France took on Belgium in UEFA Nations League.\n\n#FOXSoccer #UEFA #France\n\nSUBSCRIBE to get the latest FOX Soccer content: http://foxs.pt/SubscribeFOXSOCCER\nThe all-new FOX Sports App, built for the modern sports fan: https://tinyurl.com/y4uouolb\n\n►FOX Sports YouTube Channel: http://foxs.pt/SubscribeFOXSPORTS\n►PBC ON FOX’s YouTube Channel: https://foxs.pt/SubscribePBCONFOX\n►WWE ON FOX YouTube channel: https://foxs.pt/SubscribeWWEONFOX\n►NASCAR ON FOX YouTube channel: https://foxs.pt/SubscribeNASCARonFOX\n►CFB ON FOX YouTube channel: https://foxs.pt/SubscribeCFBonFOX\n\nSee more from FOX Soccer: https://foxs.pt/FOXSoccer\nLike FOX Soccer on Facebook: https://foxs.pt/FOXSoccerFacebook\nFollow FOX Soccer on Twitter: https://foxs.pt/FOXSoccerTwitter\nFollow FOX Soccer on Instagram: https://foxs.pt/FOXSoccerInstagram\n\nAbout FOX Soccer:\nWith exclusive highlights, original programming, and behind the scenes footage, FOX Soccer’s YouTube channel provides the sports content that fans are hungry for. FOX Soccer presents: Bundesliga, MLS, FIFA World Cup, FIFA Women’s World Cup, Copa America, Gold Cup and many more.\n\nFrance vs. Belgium Highlights | UEFA Nations League\nhttps://youtu.be/zQLPGhjD_7I\n\nFOX Soccer\nhttps://www.youtube.com/user/Foxsoccer"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "l9QhDD1lQyx8ZR4RYksmIxkaUQA",
+            "id": "GDlkCkcIqTs",
+            "snippet": {
+                "publishedAt": "2024-09-09T18:58:23Z",
+                "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+                "title": "Introducing iPhone 16 | Apple",
+                "description": "Meet iPhone 16. Built for Apple Intelligence. Turbocharged with the new A18 chip. Featuring all-new Camera Control. New 48MP Fusion camera. Macro photography. Ultra-durable third-generation Ceramic Shield. Action button. Big boost in battery life. Five vibrant colors. iPhone 16 is here. Leap way ahead.\n\nLearn more about iPhone 16 and iPhone 16 Plus: https://apple.co/3XyV35l\n\nAudio Descriptions: https://apple.co/47kihzg\n\n“TAKA” by Ahadadream, Priya Ragu, Skrillex, contra https://apple.co/TAKA\n\n#iPhone16 #AppleIntelligence #AppleEvent\n\nWelcome to the official Apple YouTube channel. Here you’ll find news about product launches, tutorials, and other great content. Apple’s more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GDlkCkcIqTs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GDlkCkcIqTs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GDlkCkcIqTs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GDlkCkcIqTs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GDlkCkcIqTs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apple",
+                "tags": [
+                    "Apple",
+                    "Apple Event",
+                    "Apple Keynote",
+                    "Apple Special Event",
+                    "September 2024",
+                    "2024",
+                    "Keynote",
+                    "iPhone 16",
+                    "iPhone 16 Plus",
+                    "A18 chip",
+                    "Apple Intelligence",
+                    "Writing Tools",
+                    "Genmoji",
+                    "Siri",
+                    "48MP Fusion camera",
+                    "macro photography",
+                    "Ceramic Shield",
+                    "Action button",
+                    "all-day battery"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Introducing iPhone 16 | Apple",
+                    "description": "Meet iPhone 16. Built for Apple Intelligence. Turbocharged with the new A18 chip. Featuring all-new Camera Control. New 48MP Fusion camera. Macro photography. Ultra-durable third-generation Ceramic Shield. Action button. Big boost in battery life. Five vibrant colors. iPhone 16 is here. Leap way ahead.\n\nLearn more about iPhone 16 and iPhone 16 Plus: https://apple.co/3XyV35l\n\nAudio Descriptions: https://apple.co/47kihzg\n\n“TAKA” by Ahadadream, Priya Ragu, Skrillex, contra https://apple.co/TAKA\n\n#iPhone16 #AppleIntelligence #AppleEvent\n\nWelcome to the official Apple YouTube channel. Here you’ll find news about product launches, tutorials, and other great content. Apple’s more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it."
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "OAkNE6zx2RpX3_7jYs4DhRo-3_8",
+            "id": "7x_85GAncko",
+            "snippet": {
+                "publishedAt": "2024-09-09T23:25:08Z",
+                "channelId": "UCddiUEpeqJcYeBxX1IVBKvQ",
+                "title": "iPhone 16 Pro and Pro Max hands-on",
+                "description": "We just got some hands-on time with the new iPhone 16 Pro and Pro Max, which feature bigger displays with thinner bezels, revamped cameras, and Apple’s new Camera Control button, which is pretty fascinating. #Apple #Technology #iPhone16 #Glowtime\n\nPresented by @T-Mobile \n\nSubscribe: http://goo.gl/G5RXGs\nLike The Verge on Facebook: https://goo.gl/2P1aGc\nFollow on Twitter: https://goo.gl/XTWX61\nFollow on Instagram: https://goo.gl/7ZeLvX\nFollow on TikTok: http://bit.ly/42VeCVU\n\nThe Vergecast Podcast: https://pod.link/vergecast\nDecoder with Nilay Patel: https://link.chtbl.com/decoder\nMore about our podcasts: https://www.theverge.com/podcasts\n\nRead More: http://www.theverge.com\nCommunity guidelines: http://bit.ly/2D0hlAv\nWallpapers from The Verge: https://bit.ly/2xQXYJr\n\nIf you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3P4bJgz",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7x_85GAncko/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7x_85GAncko/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7x_85GAncko/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7x_85GAncko/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7x_85GAncko/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Verge",
+                "tags": [
+                    "iIphone 16",
+                    "iphone 16 pro",
+                    "iphone 16 pro max",
+                    "new iphone",
+                    "apple",
+                    "apple event",
+                    "iphone new",
+                    "iphone event",
+                    "iphone event 2024",
+                    "new iphone event",
+                    "apple event 2024",
+                    "apple intelligence",
+                    "siri",
+                    "apple event recap",
+                    "iphone camera button",
+                    "new camera button",
+                    "apple camera button",
+                    "a18",
+                    "a18 processor",
+                    "iphone 16 spec",
+                    "iphone 16 bezels",
+                    "tech",
+                    "tech news",
+                    "news",
+                    "the verge",
+                    "verge",
+                    "glowtime"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en-US",
+                "localized": {
+                    "title": "iPhone 16 Pro and Pro Max hands-on",
+                    "description": "We just got some hands-on time with the new iPhone 16 Pro and Pro Max, which feature bigger displays with thinner bezels, revamped cameras, and Apple’s new Camera Control button, which is pretty fascinating. #Apple #Technology #iPhone16 #Glowtime\n\nPresented by @T-Mobile \n\nSubscribe: http://goo.gl/G5RXGs\nLike The Verge on Facebook: https://goo.gl/2P1aGc\nFollow on Twitter: https://goo.gl/XTWX61\nFollow on Instagram: https://goo.gl/7ZeLvX\nFollow on TikTok: http://bit.ly/42VeCVU\n\nThe Vergecast Podcast: https://pod.link/vergecast\nDecoder with Nilay Patel: https://link.chtbl.com/decoder\nMore about our podcasts: https://www.theverge.com/podcasts\n\nRead More: http://www.theverge.com\nCommunity guidelines: http://bit.ly/2D0hlAv\nWallpapers from The Verge: https://bit.ly/2xQXYJr\n\nIf you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3P4bJgz"
+                },
+                "defaultAudioLanguage": "en-US"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "0En7cDykH8JBDQ4A_llyWOpEY_Q",
+            "id": "bDohnNtZRps",
+            "snippet": {
+                "publishedAt": "2024-09-09T16:03:04Z",
+                "channelId": "UC0BletW9phE4xHFM44q4qKA",
+                "title": "Juice WRLD - World Tour (Aquafina) (Official Audio)",
+                "description": "Juice WRLD \"The Pre-Party\" is available now: https://juicewrld.lnk.to/ThePreParty\n \nSubscribe to the official Juice WRLD channel for new music, updates and behind the scenes footage click here: http://bit.ly/Sub-to-JuiceWrld\n\nThe Party will be starting soon🎉: \nhttps://www.thepartyneverends.com \n\nCheck out more Juice WRLD here:\nMerch - https://999club.com/\nSoundcloud - https://soundcloud.com/uiceheidd\nTwitter - https://twitter.com/JuiceWorlddd\nInsta - https://www.instagram.com/juicewrld999/\n \n#JuiceWRLD #Aquafina #ThePreParty #999",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bDohnNtZRps/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bDohnNtZRps/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bDohnNtZRps/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bDohnNtZRps/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bDohnNtZRps/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Juice WRLD",
+                "tags": [
+                    "JuiceWRLD",
+                    "juiceworld",
+                    "juice world",
+                    "juice wrld",
+                    "999"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Juice WRLD - World Tour (Aquafina) (Official Audio)",
+                    "description": "Juice WRLD \"The Pre-Party\" is available now: https://juicewrld.lnk.to/ThePreParty\n \nSubscribe to the official Juice WRLD channel for new music, updates and behind the scenes footage click here: http://bit.ly/Sub-to-JuiceWrld\n\nThe Party will be starting soon🎉: \nhttps://www.thepartyneverends.com \n\nCheck out more Juice WRLD here:\nMerch - https://999club.com/\nSoundcloud - https://soundcloud.com/uiceheidd\nTwitter - https://twitter.com/JuiceWorlddd\nInsta - https://www.instagram.com/juicewrld999/\n \n#JuiceWRLD #Aquafina #ThePreParty #999"
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "3Ypgd8R86Fo-ZmUUd8J7sWomntk",
+            "id": "C9jXP5AyO4s",
+            "snippet": {
+                "publishedAt": "2024-09-10T08:00:06Z",
+                "channelId": "UCBnLE14tUHTDyDc8Xij9rAg",
+                "title": "Mega-church leader arrested in Philippines after coming close to being apprehended in Hawaii",
+                "description": "A televangelist accused of human trafficking and sex assault including in Hawaii is in custody in the Philippines.\r\n\r\nFor more Local News from Hawaii News Now: https:/www.hawaiinewsnow.com\r\nFor more YouTube Content: https://www.youtube.com/channel/UCBnLE14tUHTDyDc8Xij9rAg",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/C9jXP5AyO4s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/C9jXP5AyO4s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/C9jXP5AyO4s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/C9jXP5AyO4s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/C9jXP5AyO4s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Hawaii News Now",
+                "categoryId": "25",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Mega-church leader arrested in Philippines after coming close to being apprehended in Hawaii",
+                    "description": "A televangelist accused of human trafficking and sex assault including in Hawaii is in custody in the Philippines.\r\n\r\nFor more Local News from Hawaii News Now: https:/www.hawaiinewsnow.com\r\nFor more YouTube Content: https://www.youtube.com/channel/UCBnLE14tUHTDyDc8Xij9rAg"
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "iXn1rOJx8CX7w0SrltEkHqJjOyU",
+            "id": "zUm5tbT3Ihk",
+            "snippet": {
+                "publishedAt": "2024-09-09T13:53:56Z",
+                "channelId": "UCBgcPSn61UQ4l_-FvcEgLQA",
+                "title": "Man who recorded Tyreek Hill being detained by police describes encounter",
+                "description": "A video taken Sunday captured the moment Miami Dolphins star Tyreek Hill was handcuffed and placed face down on a street outside the team's stadium after he was stopped for speeding and reckless driving Sunday morning before the Dolphins' first game of the season.\n\nThe person who captured the incident on camera, Dylan Vega, spoke with NBC6 and described the encounter.\n\nFull story: https://www.nbcmiami.com/news/local/we-need-tyreek-witness-describes-moment-dolphins-hill-was-detained-by-police/3412245/\n\nNBC 6 on Instagram: @NBC6 | www.instagram.com/nbc6\nNBC 6 on Facebook: www.facebook.com/nbc6southflorida\nNBC 6 on TikTok: @NBCsouthflorida | www.tiktok.com/@nbcsouthflorida\n\nGet breaking news, First Alert weather updates, plus live cameras from NBC 6 South Florida. NBC 6/WTVJ was Florida’s first television station and has been covering news in South Florida for over 70 years.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zUm5tbT3Ihk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zUm5tbT3Ihk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zUm5tbT3Ihk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zUm5tbT3Ihk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zUm5tbT3Ihk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "NBC 6 South Florida",
+                "tags": [
+                    "tyreek hill",
+                    "south florida",
+                    "Miami",
+                    "Miami Dolphins",
+                    "Miami-Dade police",
+                    "officer",
+                    "Hard Rock Stadium",
+                    "caught on camera",
+                    "only in dade"
+                ],
+                "categoryId": "25",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Man who recorded Tyreek Hill being detained by police describes encounter",
+                    "description": "A video taken Sunday captured the moment Miami Dolphins star Tyreek Hill was handcuffed and placed face down on a street outside the team's stadium after he was stopped for speeding and reckless driving Sunday morning before the Dolphins' first game of the season.\n\nThe person who captured the incident on camera, Dylan Vega, spoke with NBC6 and described the encounter.\n\nFull story: https://www.nbcmiami.com/news/local/we-need-tyreek-witness-describes-moment-dolphins-hill-was-detained-by-police/3412245/\n\nNBC 6 on Instagram: @NBC6 | www.instagram.com/nbc6\nNBC 6 on Facebook: www.facebook.com/nbc6southflorida\nNBC 6 on TikTok: @NBCsouthflorida | www.tiktok.com/@nbcsouthflorida\n\nGet breaking news, First Alert weather updates, plus live cameras from NBC 6 South Florida. NBC 6/WTVJ was Florida’s first television station and has been covering news in South Florida for over 70 years."
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "jIz8X87XIsugSnLBgonRbXNvXHE",
+            "id": "XH1brKUQKWg",
+            "snippet": {
+                "publishedAt": "2024-09-09T22:49:09Z",
+                "channelId": "UCJAPcllL_VRxUiNKtaLOpzw",
+                "title": "What is the GREATEST Fortnite Mythic of All Time?",
+                "description": "Today I went through ALL 115 mythics and ranked every single one of them! Let me know if you want me to see more ranking videos like this! Enjoy! :)\n\n🌟 Socials 🌟\n\n📺 Twitch: http://www.twitch.tv/sypherpk\n🐥 Twitter: http://www.twitter.com/sypherpk \n📷 Instagram: https://www.instagram.com/sypherpk/ \n💌 Discord: https://discordapp.com/invite/sypherpk\n📚 Facebook: https://facebook.com/SypherPK\n\n🎥 Produced, and Thumbnail by: JackZenn: \nhttps://twitter.com/JackMelaschenko  \n\nProduced by: James\n\nEdited by: Juan\n\nHey everyone it’s SypherPK, and Welcome back to another fortnite battle royale vid in Fortnite Chapter 5! I try to keep these vids as clean and family friendly as possible. Hope you enjoy!\n\n#fortnite  #sypherpk #season4",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XH1brKUQKWg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XH1brKUQKWg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XH1brKUQKWg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XH1brKUQKWg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XH1brKUQKWg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "More SypherPK",
+                "tags": [
+                    "fortnite",
+                    "fortnite battle royale",
+                    "gameplay",
+                    "sypherpk",
+                    "sypher",
+                    "more sypherpk",
+                    "new update",
+                    "fortnite chapter 5"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "What is the GREATEST Fortnite Mythic of All Time?",
+                    "description": "Today I went through ALL 115 mythics and ranked every single one of them! Let me know if you want me to see more ranking videos like this! Enjoy! :)\n\n🌟 Socials 🌟\n\n📺 Twitch: http://www.twitch.tv/sypherpk\n🐥 Twitter: http://www.twitter.com/sypherpk \n📷 Instagram: https://www.instagram.com/sypherpk/ \n💌 Discord: https://discordapp.com/invite/sypherpk\n📚 Facebook: https://facebook.com/SypherPK\n\n🎥 Produced, and Thumbnail by: JackZenn: \nhttps://twitter.com/JackMelaschenko  \n\nProduced by: James\n\nEdited by: Juan\n\nHey everyone it’s SypherPK, and Welcome back to another fortnite battle royale vid in Fortnite Chapter 5! I try to keep these vids as clean and family friendly as possible. Hope you enjoy!\n\n#fortnite  #sypherpk #season4"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "jcgJhr8f1xRoKZoMGi5v1QoRyAA",
+            "id": "QZAhsa0X_e4",
+            "snippet": {
+                "publishedAt": "2024-09-09T19:49:16Z",
+                "channelId": "UCxcTeAKWJca6XyJ37_ZoKIQ",
+                "title": "The Pat McAfee Show Live | Monday September 9th 2024",
+                "description": "Welcome to The Pat McAfee Show LIVE from Noon-3PM EST Mon-Fri. You can also find us live on ESPN, ESPN+, & TikTok!\n\nBecome a #McAfeeMafia member! https://www.youtube.com/channel/UCxcTeAKWJca6XyJ37_ZoKIQ/join\n\nSUBSCRIBE:\nhttps://www.youtube.com/channel/UCxcTeAKWJca6XyJ37_ZoKIQ?sub_confirmation=1\n\nMERCH: https://store.patmcafeeshow.com\n\nSubscribe to the Pat McAfee Show(s)!\n @Hammer Dahn  \n @Thats Hockey Talk  \n @The Pod  \n @The Pat McAfee Show  \n   \nMERCH: https://store.patmcafeeshow.com\nSPONSOR THE SHOW: https://www.patmcafeeshow.com/partnerships\n\n#PatMcAfee #NFL",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QZAhsa0X_e4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QZAhsa0X_e4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QZAhsa0X_e4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QZAhsa0X_e4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QZAhsa0X_e4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Pat McAfee Show",
+                "tags": [
+                    "pat mcafee",
+                    "podcast",
+                    "sports",
+                    "nfl",
+                    "ncaa",
+                    "football",
+                    "for the brand",
+                    "punter",
+                    "kicker",
+                    "pat mcafee show",
+                    "american football",
+                    "nfl news",
+                    "pat mcafee clips",
+                    "pat mcafee reacts",
+                    "pat mcafee highlights",
+                    "pat mcafee live",
+                    "pat mcafee show live",
+                    "pat mcafee podcast",
+                    "the pat mcafee show",
+                    "McAfeeESPN2023"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en-US",
+                "localized": {
+                    "title": "The Pat McAfee Show Live | Monday September 9th 2024",
+                    "description": "Welcome to The Pat McAfee Show LIVE from Noon-3PM EST Mon-Fri. You can also find us live on ESPN, ESPN+, & TikTok!\n\nBecome a #McAfeeMafia member! https://www.youtube.com/channel/UCxcTeAKWJca6XyJ37_ZoKIQ/join\n\nSUBSCRIBE:\nhttps://www.youtube.com/channel/UCxcTeAKWJca6XyJ37_ZoKIQ?sub_confirmation=1\n\nMERCH: https://store.patmcafeeshow.com\n\nSubscribe to the Pat McAfee Show(s)!\n @Hammer Dahn  \n @Thats Hockey Talk  \n @The Pod  \n @The Pat McAfee Show  \n   \nMERCH: https://store.patmcafeeshow.com\nSPONSOR THE SHOW: https://www.patmcafeeshow.com/partnerships\n\n#PatMcAfee #NFL"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "aClsfJ6ezHbNI_HuPfu5rafmzMc",
+            "id": "07w0vddfRNg",
+            "snippet": {
+                "publishedAt": "2024-09-09T22:40:51Z",
+                "channelId": "UCRAoLjIeDYFOSuXFImfecqg",
+                "title": "SEC Roll Call - Week 2 (2024 Season)",
+                "description": "With half the conference sitting pretty in the top 25, a coalition of unranked teams seize control aided by South Carolina claiming the top spot in the official SEC standings. Texas takes down Michigan with ease. Georgia is still barking. And Bama is upset that his team is smiling.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/07w0vddfRNg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/07w0vddfRNg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/07w0vddfRNg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/07w0vddfRNg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/07w0vddfRNg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Matt Mitchell",
+                "categoryId": "23",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "SEC Roll Call - Week 2 (2024 Season)",
+                    "description": "With half the conference sitting pretty in the top 25, a coalition of unranked teams seize control aided by South Carolina claiming the top spot in the official SEC standings. Texas takes down Michigan with ease. Georgia is still barking. And Bama is upset that his team is smiling."
+                },
+                "defaultAudioLanguage": "en-US"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "WdAXTk4ePWYwwc9zkkjTuE9X_x8",
+            "id": "NoirlfeMuvE",
+            "snippet": {
+                "publishedAt": "2024-09-09T23:06:00Z",
+                "channelId": "UC102Hjg6YvX8bOh3JWn-vJA",
+                "title": "WHISPER CHALLENGE... ft. BAKJayC",
+                "description": "GET PAID FROM PLAYING GAMES ON YOUR PHONE!!!👇🏽👇🏽👇🏽\nhttps://www.pkj6g7g.com/cmp/7K3M71/9P848/\n1. Signup To KashKick\n2. Choose An Offer\n3. Complete Steps\n4. Get Paid\nComplete all the Steps and Get your money ! \n\nFollow me on all my other social medias ⬇️ \n\nTikTok- selenaaryanaa\n\nTwitter- selenaaryana \n\nInstagram- Lena.daviss \n\nEmail- selenaaryana6@gmail.com\n\nMake sure you subscribe and hit that 🔔 to get notified everytime I post a new vid! 💕Road to 200k !!!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NoirlfeMuvE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NoirlfeMuvE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NoirlfeMuvE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NoirlfeMuvE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NoirlfeMuvE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Lena Davis",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "WHISPER CHALLENGE... ft. BAKJayC",
+                    "description": "GET PAID FROM PLAYING GAMES ON YOUR PHONE!!!👇🏽👇🏽👇🏽\nhttps://www.pkj6g7g.com/cmp/7K3M71/9P848/\n1. Signup To KashKick\n2. Choose An Offer\n3. Complete Steps\n4. Get Paid\nComplete all the Steps and Get your money ! \n\nFollow me on all my other social medias ⬇️ \n\nTikTok- selenaaryanaa\n\nTwitter- selenaaryana \n\nInstagram- Lena.daviss \n\nEmail- selenaaryana6@gmail.com\n\nMake sure you subscribe and hit that 🔔 to get notified everytime I post a new vid! 💕Road to 200k !!!"
+                },
+                "defaultAudioLanguage": "en-US"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "sB8R9Ww1TKchaDcUiyFyYY3PUlg",
+            "id": "ejQ77InvJrQ",
+            "snippet": {
+                "publishedAt": "2024-09-09T13:00:41Z",
+                "channelId": "UCUOZvgB9Q8AgZjjLYcLWztQ",
+                "title": "SEC Shorts - College football ER packed out again",
+                "description": "What was supposed to be a normal weekend of college football turned into an upset extravaganza as teams began to fall like flies.  And when it comes to checking in on the comings and goings of the teams that struggled, the only place to find them is the college football ER.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ejQ77InvJrQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ejQ77InvJrQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ejQ77InvJrQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ejQ77InvJrQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ejQ77InvJrQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SEC Shorts",
+                "categoryId": "23",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "SEC Shorts - College football ER packed out again",
+                    "description": "What was supposed to be a normal weekend of college football turned into an upset extravaganza as teams began to fall like flies.  And when it comes to checking in on the comings and goings of the teams that struggled, the only place to find them is the college football ER."
+                },
+                "defaultAudioLanguage": "en"
+            }
+        }
+    ],
+    "nextPageToken": "CBkQAA",
+    "pageInfo": {
+        "totalResults": 200,
+        "resultsPerPage": 25
+    }
+}
