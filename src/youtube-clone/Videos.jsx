@@ -1,42 +1,37 @@
+import { useQuery } from "@tanstack/react-query";
 import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
 
-function Videos(props) {
+function Videos() {
     const { keyword } = useParams();
 
-    const [loading, setLoading] = useState(false);
-    const [error, setError] = useState();
-    const [videos, setVideos] = useState([]);
-
-    useEffect(() => {
-        // const url = `youtube-mock/${keyword ? "keyword" : "hot-trend"}.json`;
-        const url = `youtube-mock/keyword.json`;
-        console.log("url: ", url);
-        setLoading(true);
-        setError(undefined);
-        fetch(url)
-            .then((res) => {
-                console.log("res: ", res);
-                return res.json();
-            })
-            .then((data) => {
-                console.log(data);
-                setVideos(data.items);
-            })
-            .catch((e) => {
-                console.log(e);
-                setError(e);
-            })
-            .finally(() => setLoading(false));
-    }, [keyword]);
+    const {
+        isLoading,
+        error,
+        data: videos,
+    } = useQuery({
+        queryKey: ["videos", keyword],
+        queryFn: async () => {
+            return fetch(
+                `/youtube-mock/${keyword ? "keyword" : "hot-trend"}.json`
+            )
+                .then((res) => res.json())
+                .then((data) => data.items);
+        },
+    });
 
     return (
-        <ul>
-            <li>키워드: {keyword}</li>
-            {videos.map((video) => (
-                <li key={video.etag}>{video.snippet.title}</li>
-            ))}
-        </ul>
+        <>
+            {isLoading && <p>isLoading...</p>}
+            {error && <p>Something is wrong!</p>}
+            {videos && (
+                <ul>
+                    {videos.map((video) => (
+                        <li key={video.etag}>{video.snippet.title}</li>
+                    ))}
+                </ul>
+            )}
+        </>
     );
 }
 
