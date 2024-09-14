@@ -16,7 +16,7 @@ const router = createBrowserRouter([
         element: <AppYoutube />,
         children: [
             { index: true, element: <Videos /> },
-            { path: "/youtube/videos", element: <Videos /> },
+            { path: "/youtube/videos/:keyword", element: <Videos /> },
             { path: "/youtube/video/:videoId", element: <WatchVideo /> },
         ],
     },
