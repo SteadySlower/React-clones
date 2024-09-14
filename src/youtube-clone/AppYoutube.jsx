@@ -1,11 +1,11 @@
 import React from "react";
-import Navbar from "./Navbar";
+import SearchHeader from "./components/SearchHeader";
 import { Outlet } from "react-router-dom";
 
 function AppYoutube(props) {
     return (
         <div>
-            <Navbar />
+            <SearchHeader />
             <Outlet />
         </div>
     );

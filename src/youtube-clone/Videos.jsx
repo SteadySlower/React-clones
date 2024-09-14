@@ -5,8 +5,7 @@ function Videos(props) {
     const { keyword } = useParams();
     return (
         <div>
-            Videos
-            {keyword && keyword}
+            {keyword ? `Videos of query ${keyword}` : "Videos 🔥"}
         </div>
     );
 }
