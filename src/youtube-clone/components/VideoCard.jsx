@@ -16,7 +16,7 @@ function VideoCard({ video }) {
             <div>
                 <p>{title}</p>
                 <p>{channelTitle}</p>
-                <p>{format(new Date(publishedAt))}</p>
+                <p>{format(publishedAt)}</p>
             </div>
         </div>
     );
