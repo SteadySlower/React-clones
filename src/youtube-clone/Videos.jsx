@@ -18,13 +18,12 @@ function Videos() {
             return youtube.search(keyword);
         },
     });
-
     return (
         <>
             {isLoading && <p>isLoading...</p>}
             {error && <p>Something is wrong! {error.message}</p>}
             {videos && (
-                <ul>
+                <ul className="grid grid-cols-4 gap-4">
                     {videos.map((video) => (
                         <VideoCard key={video.id} video={video} />
                     ))}
