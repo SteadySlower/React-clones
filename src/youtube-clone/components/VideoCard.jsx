@@ -1,5 +1,5 @@
 import React from "react";
-import { format } from "timeago.js";
+import { formatAgo } from "../util/date";
 
 function VideoCard({ video }) {
     const {
@@ -16,7 +16,7 @@ function VideoCard({ video }) {
             <div>
                 <p>{title}</p>
                 <p>{channelTitle}</p>
-                <p>{format(publishedAt)}</p>
+                <p>{formatAgo(publishedAt, "ko")}</p>
             </div>
         </div>
     );
