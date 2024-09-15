@@ -1,53 +1,37 @@
-import axios from "axios";
-
-export const search = async (keyword) => {
-    return axios
-        .get(`/youtube-mock/${keyword ? "keyword" : "hot-trend"}.json`)
-        .then((res) => res.data.items);
-};
-
-export default class YoutubeImpl {
-    constructor() {
-        this.httpClient = axios.create({
-            baseURL: "https://youtube.googleapis.com/youtube/v3/",
-            params: { key: process.env.REACT_APP_YOUTUBE_API_KEY },
-        });
+// impl과 mock 2개의 객체를 따로 만드는 것이 아니라 외부에서 client를 받아와서 하나의 인터페이스로 통합
+    // 따라서 중복되는 파싱 로직을 한군데 몰아놓을 수 있게 됨.
+export default class Youtube {
+    constructor(apiClient) {
+      this.apiClient = apiClient;
     }
-
+  
     async search(keyword) {
-        return keyword ? this.#searchByKeyword(keyword) : this.#hotTrend();
+      return keyword ? this.#searchByKeyword(keyword) : this.#mostPopular();
     }
-
+  
     async #searchByKeyword(keyword) {
-        return this.httpClient
-            .get("search", {
-                params: {
-                    part: "snippet",
-                    maxResults: 25,
-                    type: "video",
-                    q: keyword,
-                },
-            })
-            .then((res) => res.data.items)
-            .then((items) => {
-                console.log(items);
-                return items;
-            })
-            .then((items) =>
-                items.map((item) => ({ ...item, id: item.id.videoId }))
-            );
+      return this.apiClient
+        .search({
+          params: {
+            part: 'snippet',
+            maxResults: 25,
+            type: 'video',
+            q: keyword,
+          },
+        })
+        .then((res) => res.data.items)
+        .then((items) => items.map((item) => ({ ...item, id: item.id.videoId })));
     }
-
-    async #hotTrend(keyword) {
-        return this.httpClient
-            .get("videos", {
-                params: {
-                    part: "snippet",
-                    chart: "mostPopular",
-                    maxResults: 25,
-                    type: "video",
-                },
-            })
-            .then((res) => res.data.items);
+  
+    async #mostPopular() {
+      return this.apiClient
+        .videos({
+          params: {
+            part: 'snippet',
+            maxResults: 25,
+            chart: 'mostPopular',
+          },
+        })
+        .then((res) => res.data.items);
     }
-}
+  }
