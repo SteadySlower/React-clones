@@ -1,12 +1,12 @@
 import { useQuery } from "@tanstack/react-query";
-import React, { useState, useEffect } from "react";
+import React from "react";
 import { useParams } from "react-router-dom";
 import VideoCard from "./components/VideoCard";
-import YoutubeImpl from "./api/youtube";
-import FakeYoutube from "./api/fakeYoutube";
+import useYoutubeApi from "./context/YoutubeApiContext";
 
 function Videos() {
     const { keyword } = useParams();
+    const { youtube } = useYoutubeApi();
 
     const {
         isLoading,
@@ -15,7 +15,6 @@ function Videos() {
     } = useQuery({
         queryKey: ["videos", keyword],
         queryFn: () => {
-            const youtube = new FakeYoutube();
             return youtube.search(keyword);
         },
     });
@@ -23,7 +22,7 @@ function Videos() {
     return (
         <>
             {isLoading && <p>isLoading...</p>}
-            {error && <p>Something is wrong!</p>}
+            {error && <p>Something is wrong! {error.message}</p>}
             {videos && (
                 <ul>
                     {videos.map((video) => (
