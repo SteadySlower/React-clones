@@ -2,6 +2,7 @@ import { useQuery } from "@tanstack/react-query";
 import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
 import VideoCard from "./components/VideoCard";
+import axios from "axios";
 
 function Videos() {
     const { keyword } = useParams();
@@ -13,11 +14,10 @@ function Videos() {
     } = useQuery({
         queryKey: ["videos", keyword],
         queryFn: async () => {
-            return fetch(
+            return axios.get(
                 `/youtube-mock/${keyword ? "keyword" : "hot-trend"}.json`
             )
-                .then((res) => res.json())
-                .then((data) => data.items);
+                .then((res) => res.data.items);
         },
     });
 
