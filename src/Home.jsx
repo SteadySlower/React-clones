@@ -3,8 +3,9 @@ import { Link } from "react-router-dom";
 
 function Home(props) {
     return (
-        <div>
+        <div className="flex flex-col">
             <Link to="/youtube">Youtube</Link>
+            <Link to="/shoppy">Shoppy</Link>
         </div>
     );
 }
