@@ -11,9 +11,9 @@ function ChannelInfo({ id, title }) {
         },
     });
     return (
-        <div>
-            {url && <img src={url} alt="channel thumbnail img" />}
-            <p>{title}</p>
+        <div className="flex my-4 mb-8 items-center">
+            {url && <img className="w-10 h-10 rounded-full" src={url} alt="channel thumbnail img" />}
+            <p className="text-lg font-medium ml-2">{title}</p>
         </div>
     );
 }

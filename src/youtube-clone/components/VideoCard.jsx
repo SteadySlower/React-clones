@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 import { formatAgo } from "../util/date";
 import { decodeHTMLEntities } from "../util/decodeHTML";
 
-function VideoCard({ video, onClick }) {
+function VideoCard({ video, type }) {
     const {
         title,
         thumbnails: {
@@ -12,6 +12,8 @@ function VideoCard({ video, onClick }) {
         channelTitle,
         publishedAt,
     } = video.snippet;
+
+    const isList = type === "list";
 
     const navigate = useNavigate();
 
@@ -22,8 +24,12 @@ function VideoCard({ video, onClick }) {
     };
 
     return (
-        <div className="flex-col" onClick={handleOnClick}>
-            <img className="w-full" src={url} alt="thumbnail img" />
+        <li className={isList ? "flex" : ""} onClick={handleOnClick}>
+            <img
+                className={isList ? "w-60 mr-4" : "w-full"}
+                src={url}
+                alt="thumbnail img"
+            />
             <div>
                 <p className="font-semibold my-2 line-clamp-2">
                     {decodeHTMLEntities(title)}
@@ -33,7 +39,7 @@ function VideoCard({ video, onClick }) {
                     {formatAgo(publishedAt, "ko")}
                 </p>
             </div>
-        </div>
+        </li>
     );
 }
 

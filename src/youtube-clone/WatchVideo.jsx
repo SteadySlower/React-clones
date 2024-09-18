@@ -10,8 +10,8 @@ function WatchVideo() {
     } = useLocation(); // navigate를 통해 전달한 두번째 인자를 가져온다
     const { title, channelId, channelTitle, description } = video.snippet;
     return (
-        <article>
-            <section>
+        <section className="flex flex-col lg:flex-row">
+            <article className="basis-4/6">
                 <iframe
                     width="100%"
                     height="640"
@@ -20,16 +20,18 @@ function WatchVideo() {
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                     allowFullScreen
                 />
-                <div>
-                    <h2>{decodeHTMLEntities(title)}</h2>
+                <div className="p-8">
+                    <h2 className="text-xl font-bold">
+                        {decodeHTMLEntities(title)}
+                    </h2>
                     <ChannelInfo id={channelId} title={channelTitle} />
-                    <pre>{description}</pre>
+                    <pre className="whitespace-pre-wrap">{description}</pre>
                 </div>
-            </section>
-            <section>
+            </article>
+            <section className="basis-2/6">
                 <RelatedVideos id={video.id} />
             </section>
-        </article>
+        </section>
     );
 }
 
