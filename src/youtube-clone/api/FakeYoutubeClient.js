@@ -7,4 +7,8 @@ export default class FakeYoutubeClient {
     async videos() {
         return axios.get("/youtube-mock/hot-trend.json");
     }
+
+    async channels() {
+        return axios.get("/youtube-mock/channel-detail.json");
+    }
 }
