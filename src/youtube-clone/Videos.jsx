@@ -17,6 +17,7 @@ function Videos() {
         queryFn: () => {
             return youtube.search(keyword);
         },
+        staleTime: 1000 * 60, // 자주 변하지 않는 데이터들은 stale time을 길게
     });
 
     return (

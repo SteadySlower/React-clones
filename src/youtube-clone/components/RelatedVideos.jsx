@@ -14,6 +14,7 @@ function RelatedVideos({ id }) {
         queryFn: () => {
             return youtube.relatedVideo(id);
         },
+        staleTime: 1000 * 60 * 5, // stale 타임 길게
     });
 
     return (
