@@ -6,6 +6,10 @@ import WatchVideo from "./youtube-clone/WatchVideo";
 import NotFound from "./NotFound";
 import AppShoppy from "./shoppy-clone/AppShoppy";
 import ShoppyHome from "./shoppy-clone/Home";
+import AllProducts from "./shoppy-clone/AllProducts";
+import NewProduct from "./shoppy-clone/NewProduct";
+import ProductDetail from "./shoppy-clone/ProductDetail";
+import MyCart from "./shoppy-clone/MyCart";
 
 const router = createBrowserRouter([
     {
@@ -25,7 +29,13 @@ const router = createBrowserRouter([
     {
         path: "/shoppy",
         element: <AppShoppy />,
-        children: [{ index: true, element: <ShoppyHome /> }],
+        children: [
+            { index: true, element: <ShoppyHome /> },
+            { path: "products", element: <AllProducts /> },
+            { path: "products/new", element: <NewProduct /> },
+            { path: "products/:id", element: <ProductDetail /> },
+            { path: "carts", element: <MyCart /> },
+        ],
     },
 ]);
 
