@@ -1,10 +1,20 @@
-import React from "react";
-import { Link, useNavigate } from "react-router-dom";
+import React, { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 import { FiShoppingBag } from "react-icons/fi";
 import { BsFillPencilFill } from "react-icons/bs";
+import { login, logout, onUserStateChange } from "../api/firebase";
 
 function Header() {
-    const navigate = useNavigate();
+    const [user, setUser] = useState();
+    const handleLogin = () => {
+        login().then(setUser);
+    };
+    const handleLogout = () => {
+        logout().then(setUser);
+    };
+    useEffect(() => {
+        onUserStateChange(setUser);
+    }, []);
 
     return (
         <header className="flex justify-between border-b border-gray-300 p-2">
@@ -21,7 +31,8 @@ function Header() {
                 <Link to="/shoppy/products/new" className="text-2xl">
                     <BsFillPencilFill />
                 </Link>
-                <button>Login</button>
+                {!user && <button onClick={handleLogin}>Login</button>}
+                {user && <button onClick={handleLogout}>Logout</button>}
             </nav>
         </header>
     );
