@@ -5,6 +5,7 @@ module.exports = {
         extend: {
             colors: {
                 youtubeBrand: "#FF0000",
+                shoppyBrand: "#F96162",
             },
         },
     },
