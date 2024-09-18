@@ -11,6 +11,9 @@ body {
     -moz-osx-font-smoothing: grayscale;
     width: 100vw;
     height: 100vh;
+}
+
+#AppYoutube {
     @apply flex flex-col items-center;
     @apply bg-zinc-900 text-gray-50;
 }

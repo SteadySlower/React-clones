@@ -7,7 +7,7 @@ import { YoutubeApiProvider } from "./context/YoutubeApiContext";
 const queryClient = new QueryClient();
 function AppYoutube(props) {
     return (
-        <div>
+        <div id="AppYoutube">
             <SearchHeader />
             <YoutubeApiProvider>
                 <QueryClientProvider client={queryClient}>
