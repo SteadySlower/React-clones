@@ -4,6 +4,7 @@ import { FiShoppingBag } from "react-icons/fi";
 import { BsFillPencilFill } from "react-icons/bs";
 import { login, logout, onUserStateChange } from "../api/firebase";
 import User from "./User";
+import Button from "./ui/Button";
 
 function Header() {
     const [user, setUser] = useState();
@@ -23,12 +24,14 @@ function Header() {
             <nav className="flex items-center gap-4 font-semibold">
                 <Link to="/shoppy/products">Products</Link>
                 <Link to="/shoppy/carts">Carts</Link>
-                <Link to="/shoppy/products/new" className="text-2xl">
-                    <BsFillPencilFill />
-                </Link>
+                {user && user.isAdmin && (
+                    <Link to="/shoppy/products/new" className="text-2xl">
+                        <BsFillPencilFill />
+                    </Link>
+                )}
                 {user && <User user={user} />}
-                {!user && <button onClick={login}>Login</button>}
-                {user && <button onClick={logout}>Logout</button>}
+                {!user && <Button text={"Login"} onClick={login} />}
+                {user && <Button text={"Logout"} onClick={logout} />}
             </nav>
         </header>
     );
