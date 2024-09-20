@@ -7,6 +7,7 @@ import {
     signOut,
     onAuthStateChanged,
 } from "firebase/auth";
+import { getDatabase, ref, child, get } from "firebase/database";
 
 const firebaseConfig = {
     apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
@@ -17,6 +18,7 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 const auth = getAuth();
 const provider = new GoogleAuthProvider();
+const database = getDatabase(app);
 
 export function login() {
     signInWithPopup(auth, provider).catch(console.error);
@@ -27,10 +29,21 @@ export function logout() {
 }
 
 // firebase가 자체적으로 user 정보를 메모리에 관리하고 있음
-    // component의 생명주기와 관계 없이 user 상태가 저장됨
-    // 이 observer 덕분에 로그인 로그아웃에서 user를 따로 리턴할 필요가 없음
+// component의 생명주기와 관계 없이 user 상태가 저장됨
+// 이 observer 덕분에 로그인 로그아웃에서 user를 따로 리턴할 필요가 없음
 export function onUserStateChange(callback) {
-    onAuthStateChanged(auth, (user) => {
-        callback(user);
+    onAuthStateChanged(auth, async (user) => {
+        const updateUser =  user ? await adminUser(user) : null
+        callback(updateUser);
+    });
+}
+
+function adminUser(user) {
+    return get(ref(database), "admins").then((snapshot) => {
+        if (snapshot.exists()) {
+            const admins = snapshot.val().admins;
+            const isAdmin = admins.includes(user.uid)
+            return { ...user, isAdmin }
+        }
     });
 }
