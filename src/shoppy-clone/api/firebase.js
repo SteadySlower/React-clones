@@ -18,20 +18,17 @@ const app = initializeApp(firebaseConfig);
 const auth = getAuth();
 const provider = new GoogleAuthProvider();
 
-export async function login() {
-    return signInWithPopup(auth, provider)
-        .then((result) => {
-            return result.user;
-        })
-        .catch(console.error);
+export function login() {
+    signInWithPopup(auth, provider).catch(console.error);
 }
 
-export async function logout() {
-    return signOut(auth).then(() => null);
+export function logout() {
+    signOut(auth).catch(console.error);
 }
 
 // firebase가 자체적으로 user 정보를 메모리에 관리하고 있음
     // component의 생명주기와 관계 없이 user 상태가 저장됨
+    // 이 observer 덕분에 로그인 로그아웃에서 user를 따로 리턴할 필요가 없음
 export function onUserStateChange(callback) {
     onAuthStateChanged(auth, (user) => {
         callback(user);
