@@ -3,6 +3,7 @@ import { useEffect } from "react";
 import { Outlet } from "react-router-dom";
 import Header from "./components/Header";
 import "./AppShoppy.css";
+import { AuthContextProvider } from "./context/AuthContext";
 
 function AppShoppy() {
     useEffect(() => {
@@ -13,8 +14,10 @@ function AppShoppy() {
     }, []);
     return (
         <div id="AppShoppy">
-            <Header />
-            <Outlet />
+            <AuthContextProvider>
+                <Header />
+                <Outlet />
+            </AuthContextProvider>
         </div>
     );
 }

@@ -10,6 +10,7 @@ import AllProducts from "./shoppy-clone/AllProducts";
 import NewProduct from "./shoppy-clone/NewProduct";
 import ProductDetail from "./shoppy-clone/ProductDetail";
 import MyCart from "./shoppy-clone/MyCart";
+import ProtectedRoute from "./shoppy-clone/ProtectedRoute";
 
 const router = createBrowserRouter([
     {
@@ -32,9 +33,23 @@ const router = createBrowserRouter([
         children: [
             { index: true, element: <ShoppyHome /> },
             { path: "products", element: <AllProducts /> },
-            { path: "products/new", element: <NewProduct /> },
+            {
+                path: "products/new",
+                element: (
+                    <ProtectedRoute requireAdmin>
+                        <NewProduct />
+                    </ProtectedRoute>
+                ),
+            },
             { path: "products/:id", element: <ProductDetail /> },
-            { path: "carts", element: <MyCart /> },
+            {
+                path: "carts",
+                element: (
+                    <ProtectedRoute requireAdmin>
+                        <MyCart />
+                    </ProtectedRoute>
+                ),
+            },
         ],
     },
 ]);
