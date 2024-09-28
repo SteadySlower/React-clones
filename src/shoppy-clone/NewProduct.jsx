@@ -6,10 +6,20 @@ import { addNewProduct } from "./api/firebase";
 function NewProduct(props) {
     const [product, setProduct] = useState({});
     const [file, setFile] = useState();
+    const [isUploading, setIsUploading] = useState(false);
+    const [success, setSuccess] = useState();
     const handleSubmit = (e) => {
         e.preventDefault();
+        setIsUploading(true);
         uploadImage(file).then((url) => {
-            addNewProduct(product, url);
+            addNewProduct(product, url)
+                .then(() => {
+                    setSuccess("성공적으로 제품이 추가되었습니다.");
+                    setTimeout(() => {
+                        setSuccess(null);
+                    }, 4000);
+                })
+                .finally(() => setIsUploading(false));
         });
     };
     // input의 이름으로 어떤 input의 change인지 구분해서 실행되는 함수
@@ -23,6 +33,8 @@ function NewProduct(props) {
     };
     return (
         <section>
+            <h2>새로운 제품 등록</h2>
+            {success && <p>✅ {success}</p>}
             <form onSubmit={handleSubmit}>
                 {file && (
                     <img src={URL.createObjectURL(file)} alt="local file" /> // file object을 img 태그에 보여주는 법
@@ -74,7 +86,10 @@ function NewProduct(props) {
                     required
                     onChange={handleChange}
                 />
-                <Button text={"제품 등록하기"} />
+                <Button
+                    text={isUploading ? "업로드중..." : "제품 등록하기"}
+                    disabled={isUploading}
+                />
             </form>
         </section>
     );
