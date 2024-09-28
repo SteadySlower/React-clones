@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import Button from "./components/ui/Button";
 import { uploadImage } from "./api/upload";
+import { addNewProduct } from "./api/firebase";
 
 function NewProduct(props) {
     const [product, setProduct] = useState({});
@@ -8,7 +9,7 @@ function NewProduct(props) {
     const handleSubmit = (e) => {
         e.preventDefault();
         uploadImage(file).then((url) => {
-            console.log(url);
+            addNewProduct(product, url);
         });
     };
     // input의 이름으로 어떤 input의 change인지 구분해서 실행되는 함수

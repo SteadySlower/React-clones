@@ -7,7 +7,8 @@ import {
     signOut,
     onAuthStateChanged,
 } from "firebase/auth";
-import { getDatabase, ref, child, get } from "firebase/database";
+import { getDatabase, ref, set, get } from "firebase/database";
+import { v4 as uuid } from "uuid";
 
 const firebaseConfig = {
     apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
@@ -33,7 +34,7 @@ export function logout() {
 // 이 observer 덕분에 로그인 로그아웃에서 user를 따로 리턴할 필요가 없음
 export function onUserStateChange(callback) {
     onAuthStateChanged(auth, async (user) => {
-        const updateUser =  user ? await adminUser(user) : null
+        const updateUser = user ? await adminUser(user) : null;
         callback(updateUser);
     });
 }
@@ -42,8 +43,19 @@ function adminUser(user) {
     return get(ref(database), "admins").then((snapshot) => {
         if (snapshot.exists()) {
             const admins = snapshot.val().admins;
-            const isAdmin = admins.includes(user.uid)
-            return { ...user, isAdmin }
+            const isAdmin = admins.includes(user.uid);
+            return { ...user, isAdmin };
         }
+    });
+}
+
+export async function addNewProduct(product, image) {
+    const id = uuid();
+    set(ref(database, `products/${id}`), {
+        ...product,
+        id,
+        price: parseInt(product.price),
+        image,
+        options: product.options.split(","),
     });
 }
