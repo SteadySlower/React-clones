@@ -1,11 +1,15 @@
 import React, { useState } from "react";
 import Button from "./components/ui/Button";
+import { uploadImage } from "./api/upload";
 
 function NewProduct(props) {
     const [product, setProduct] = useState({});
     const [file, setFile] = useState();
     const handleSubmit = (e) => {
         e.preventDefault();
+        uploadImage(file).then((url) => {
+            console.log(url);
+        });
     };
     // input의 이름으로 어떤 input의 change인지 구분해서 실행되는 함수
     const handleChange = (e) => {
