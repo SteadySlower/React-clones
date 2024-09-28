@@ -32,13 +32,17 @@ function NewProduct(props) {
         setProduct((product) => ({ ...product, [name]: value })); // key를 표현하는 대괄호에 주의
     };
     return (
-        <section>
-            <h2>새로운 제품 등록</h2>
-            {success && <p>✅ {success}</p>}
-            <form onSubmit={handleSubmit}>
-                {file && (
-                    <img src={URL.createObjectURL(file)} alt="local file" /> // file object을 img 태그에 보여주는 법
-                )}
+        <section className="w-full text-center">
+            <h2 className="text-2xl font-bold my-4">새로운 제품 등록</h2>
+            {success && <p className="my-2">✅ {success}</p>}
+            {file && (
+                <img
+                    className="w-96 mx-auto mb-2"
+                    src={URL.createObjectURL(file)}
+                    alt="local file"
+                /> // file object을 img 태그에 보여주는 법
+            )}
+            <form className="flex flex-col px-12" onSubmit={handleSubmit}>
                 <input
                     type="file"
                     accept="image/*"
