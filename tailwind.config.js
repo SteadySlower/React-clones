@@ -7,6 +7,9 @@ module.exports = {
                 youtubeBrand: "#FF0000",
                 shoppyBrand: "#F96162",
             },
+            backgroundImage: {
+                shoppyBanner: `url('../public/shoppy/banner.jpg')`,
+            },
         },
     },
     plugins: [require("@tailwindcss/line-clamp")],

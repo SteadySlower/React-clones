@@ -2,7 +2,6 @@ import React from "react";
 import { useEffect } from "react";
 import { Outlet } from "react-router-dom";
 import Header from "./components/Header";
-import "./AppShoppy.css";
 import { AuthContextProvider } from "./context/AuthContext";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 

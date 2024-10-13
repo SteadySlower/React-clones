@@ -22,3 +22,16 @@ code {
 #root {
     @apply w-full max-w-screen-2xl;
 }
+
+body#appYoutube {
+    @apply bg-zinc-900 text-gray-50;
+    @apply flex flex-col items-center;
+}
+
+body#appShoppy {
+    @apply flex flex-col items-center;
+}
+
+input {
+    @apply p-4 outline-none border border-gray-300 my-1;
+}
