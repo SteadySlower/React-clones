@@ -4,6 +4,7 @@ import { BsFillPencilFill } from "react-icons/bs";
 import User from "./User";
 import Button from "./ui/Button";
 import { useAuthContext } from "../context/AuthContext";
+import CartStatus from "./ui/CartStatus";
 
 function Header() {
     const { user, login, logout } = useAuthContext();
@@ -19,7 +20,11 @@ function Header() {
             </Link>
             <nav className="flex items-center gap-4 font-semibold">
                 <Link to="/shoppy/products">Products</Link>
-                {user && <Link to="/shoppy/carts">Carts</Link>}
+                {user && (
+                    <Link to="/shoppy/carts">
+                        <CartStatus />
+                    </Link>
+                )}
                 {user && user.isAdmin && (
                     <Link to="/shoppy/products/new" className="text-2xl">
                         <BsFillPencilFill />
