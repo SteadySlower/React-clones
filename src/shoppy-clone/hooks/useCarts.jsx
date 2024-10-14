@@ -5,7 +5,7 @@ import { useAuthContext } from "../context/AuthContext";
 const QUERY_KEY = (uid) => ["carts", uid || ""];
 // 다른 유저가 로그인 하는 경우를 대비해서 uid도 쿼리키에 추가한다.
 
-export default function useProducts() {
+export default function useCart() {
     const { uid } = useAuthContext();
     const queryClient = useQueryClient();
     const cartQuery = useQuery({

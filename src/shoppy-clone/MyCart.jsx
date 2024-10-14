@@ -1,21 +1,20 @@
 import React from "react";
 import CartItem from "./components/CartItem";
 import Button from "./components/ui/Button";
-import { getCart } from "./api/firebase";
-import { useQuery } from "@tanstack/react-query";
 import { useAuthContext } from "./context/AuthContext";
 import { BsFillPlusCircleFill } from "react-icons/bs";
 import PriceCard from "./components/PriceCard";
 import { FaEquals } from "react-icons/fa";
+import useCart from "./hooks/useCarts";
 
 const SHIPPING_PRICE = 3000;
 
 function MyCart(props) {
     const { uid } = useAuthContext();
-    const { data: products, isLoading } = useQuery({
-        queryKey: ["carts"],
-        queryFn: () => getCart(uid),
-    });
+    const {
+        cartQuery: { isLoading, data: products },
+    } = useCart();
+
     if (isLoading) return <p>Loading...</p>;
     const hasProducts = products && products.length > 0;
     const totalPrice =
@@ -36,11 +35,7 @@ function MyCart(props) {
                     <ul className="border-b border-gray-300 mb-8 p-4 px-8">
                         {products &&
                             products.map((product) => (
-                                <CartItem
-                                    key={product.id}
-                                    product={product}
-                                    uid={uid}
-                                />
+                                <CartItem key={product.id} product={product} />
                             ))}
                     </ul>
                     <div className="flex justify-between items-center mb-6 px-2 md:px-8 lg:px-16">
