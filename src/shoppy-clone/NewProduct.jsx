@@ -2,25 +2,36 @@ import React, { useState } from "react";
 import Button from "./components/ui/Button";
 import { uploadImage } from "./api/upload";
 import { addNewProduct } from "./api/firebase";
+import { useMutation, useQueryClient } from "@tanstack/react-query";
 
 function NewProduct(props) {
     const [product, setProduct] = useState({});
     const [file, setFile] = useState();
     const [isUploading, setIsUploading] = useState(false);
     const [success, setSuccess] = useState();
+    const queryClient = useQueryClient();
+    const addProduct = useMutation({
+        mutationFn: ({ product, url }) => addNewProduct(product, url),
+        onSuccess: () => queryClient.invalidateQueries(["products"]),
+    });
     const handleSubmit = (e) => {
         e.preventDefault();
         setIsUploading(true);
-        uploadImage(file).then((url) => {
-            addNewProduct(product, url)
-                .then(() => {
-                    setSuccess("성공적으로 제품이 추가되었습니다.");
-                    setTimeout(() => {
-                        setSuccess(null);
-                    }, 4000);
-                })
-                .finally(() => setIsUploading(false));
-        });
+        uploadImage(file)
+            .then((url) => {
+                addProduct.mutate(
+                    { product, url },
+                    {
+                        onSuccess: () => {
+                            setSuccess("성공적으로 제품이 추가되었습니다.");
+                            setTimeout(() => {
+                                setSuccess(null);
+                            }, 4000);
+                        },
+                    }
+                );
+            })
+            .finally(() => setIsUploading(false));
     };
     // input의 이름으로 어떤 input의 change인지 구분해서 실행되는 함수
     const handleChange = (e) => {

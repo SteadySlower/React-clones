@@ -8,7 +8,10 @@ function Products() {
         isLoading,
         error,
         data: products,
-    } = useQuery({ queryKey: ["allProducts"], queryFn: getProducts });
+    } = useQuery({
+        queryKey: ["allProducts"],
+        queryFn: getProducts,
+    });
     return (
         <>
             {isLoading && <p>Loading...</p>}
