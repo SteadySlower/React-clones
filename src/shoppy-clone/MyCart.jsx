@@ -1,7 +1,6 @@
 import React from "react";
 import CartItem from "./components/CartItem";
 import Button from "./components/ui/Button";
-import { useAuthContext } from "./context/AuthContext";
 import { BsFillPlusCircleFill } from "react-icons/bs";
 import PriceCard from "./components/PriceCard";
 import { FaEquals } from "react-icons/fa";
@@ -10,7 +9,6 @@ import useCart from "./hooks/useCarts";
 const SHIPPING_PRICE = 3000;
 
 function MyCart(props) {
-    const { uid } = useAuthContext();
     const {
         cartQuery: { isLoading, data: products },
     } = useCart();
